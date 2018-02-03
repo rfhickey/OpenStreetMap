@@ -1,0 +1,3710 @@
+id,key,value,type
+82969912,power,tower,regular
+82969976,power,tower,regular
+82973486,ref,28,regular
+82973486,name,SR 68;Redwood Rd,regular
+82973486,highway,motorway_junction,regular
+82989074,highway,turning_circle,regular
+82997360,source,Bing,regular
+82997360,highway,turning_circle,regular
+82997924,highway,turning_circle,regular
+82998117,source,Yahoo,regular
+82998117,highway,turning_circle,regular
+82998313,source,Yahoo,regular
+82998313,highway,turning_circle,regular
+82998406,source,Yahoo,regular
+82998406,highway,turning_circle,regular
+83000114,source,Yahoo,regular
+83000114,highway,turning_circle,regular
+83009153,source,Yahoo,regular
+83009153,highway,turning_circle,regular
+83011402,source,Bing,regular
+83011402,highway,turning_circle,regular
+83011479,source,Yahoo,regular
+83011479,highway,turning_circle,regular
+83012281,source,Yahoo,regular
+83012281,highway,turning_circle,regular
+83023153,source,Bing,regular
+83023153,highway,turning_circle,regular
+83029254,source,Yahoo,regular
+83029254,highway,turning_circle,regular
+83038437,source,Bing,regular
+83038437,highway,turning_circle,regular
+83039452,highway,turning_circle,regular
+83042504,source,Mapbox,regular
+83042504,highway,turning_circle,regular
+83044621,highway,turning_circle,regular
+83051093,highway,turning_circle,regular
+83054542,source,Bing,regular
+83054542,highway,turning_circle,regular
+83057195,source,Yahoo,regular
+83057195,highway,turning_circle,regular
+83059185,source,Yahoo,regular
+83059185,highway,turning_circle,regular
+83060235,source,Mapbox,regular
+83060235,highway,turning_circle,regular
+83061032,source,Yahoo,regular
+83061032,highway,turning_circle,regular
+83062284,highway,turning_circle,regular
+83063428,source,Yahoo,regular
+83063428,highway,turning_circle,regular
+83066272,source,Yahoo,regular
+83066272,highway,turning_circle,regular
+83067877,source,Bing,regular
+83067877,highway,turning_circle,regular
+83068989,source,Yahoo,regular
+83068989,highway,turning_circle,regular
+83069467,source,Yahoo,regular
+83069467,highway,turning_circle,regular
+83069863,highway,turning_circle,regular
+83073852,source,Yahoo,regular
+83073852,highway,turning_circle,regular
+83076486,source,Bing,regular
+83076486,highway,turning_circle,regular
+83077043,source,Yahoo,regular
+83077043,highway,turning_circle,regular
+83527665,highway,turning_circle,regular
+83538293,highway,turning_circle,regular
+83538751,ele,1358,regular
+83538751,name,McDonald Condo,regular
+83538751,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+83538751,id,1437360,gnis
+83538751,building,yes,regular
+83538751,gnis:Class,Populated Place,regular
+83538751,gnis:County,Salt Lake,regular
+83538751,gnis:ST_num,49,regular
+83538751,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+83538751,gnis:ST_alpha,UT,regular
+83538751,gnis:County_num,035,regular
+83541757,highway,turning_circle,regular
+83541839,highway,traffic_signals,regular
+83541839,crossing,traffic_signals,regular
+83542095,highway,turning_circle,regular
+83542159,highway,stop,regular
+83543453,highway,turning_circle,regular
+83545033,highway,turning_circle,regular
+83545757,highway,turning_circle,regular
+83545824,highway,turning_circle,regular
+83547948,highway,traffic_signals,regular
+83547948,crossing,traffic_signals,regular
+83549945,highway,traffic_signals,regular
+83550583,highway,turning_circle,regular
+83551295,highway,turning_circle,regular
+83551720,highway,turning_circle,regular
+83551798,highway,turning_circle,regular
+83552182,highway,turning_circle,regular
+83554270,highway,turning_circle,regular
+83555217,highway,turning_circle,regular
+83556239,source,Yahoo,regular
+83556239,highway,turning_circle,regular
+83557215,highway,turning_circle,regular
+83557755,highway,turning_circle,regular
+83558578,highway,turning_circle,regular
+83560696,highway,turning_circle,regular
+83568197,highway,turning_circle,regular
+83568705,highway,turning_circle,regular
+83572948,highway,turning_circle,regular
+83573508,highway,turning_circle,regular
+83573612,source,Yahoo,regular
+83573612,highway,turning_circle,regular
+83574439,highway,turning_circle,regular
+83575246,source,Bing,regular
+83575246,highway,traffic_signals,regular
+83575530,highway,turning_circle,regular
+83575969,source,Yahoo,regular
+83575969,highway,turning_circle,regular
+83581127,railway,level_crossing,regular
+83583408,highway,traffic_signals,regular
+83587894,highway,turning_circle,regular
+83588225,highway,turning_circle,regular
+83588373,highway,crossing,regular
+83588651,highway,traffic_signals,regular
+83588651,crossing,traffic_signals,regular
+83589269,highway,turning_circle,regular
+83590565,highway,turning_circle,regular
+83593012,highway,turning_circle,regular
+83593314,highway,traffic_signals,regular
+83593314,crossing,traffic_signals,regular
+83596639,crossing,traffic_signals,regular
+83596639,highway,traffic_signals,regular
+83597052,highway,turning_circle,regular
+83600002,highway,stop,regular
+83600883,highway,traffic_signals,regular
+83602737,highway,traffic_signals,regular
+83602737,crossing,traffic_signals,regular
+83604283,highway,turning_circle,regular
+83604365,highway,turning_circle,regular
+83604983,source,Yahoo,regular
+83604983,highway,turning_circle,regular
+83605654,highway,turning_circle,regular
+83606810,highway,turning_circle,regular
+83609853,highway,traffic_signals,regular
+83609853,crossing,traffic_signals,regular
+83610816,highway,turning_circle,regular
+83612652,highway,turning_circle,regular
+83614277,highway,turning_circle,regular
+83616548,highway,turning_circle,regular
+83617572,highway,turning_circle,regular
+83618881,highway,turning_circle,regular
+83619387,highway,turning_circle,regular
+83621458,highway,traffic_signals,regular
+83621458,crossing,traffic_signals,regular
+83621939,highway,turning_circle,regular
+83622376,highway,turning_circle,regular
+83622804,highway,turning_circle,regular
+83622947,highway,turning_circle,regular
+83623072,highway,turning_circle,regular
+83623441,highway,traffic_signals,regular
+83623441,crossing,traffic_signals,regular
+83624650,highway,turning_circle,regular
+83625423,highway,turning_circle,regular
+83625853,highway,turning_circle,regular
+83627197,highway,turning_circle,regular
+83628857,highway,traffic_signals,regular
+83628857,crossing,traffic_signals,regular
+83629419,highway,turning_circle,regular
+83629500,highway,turning_circle,regular
+83630374,source,Yahoo,regular
+83630374,highway,turning_circle,regular
+83632358,highway,turning_circle,regular
+83634814,highway,traffic_signals,regular
+83635983,highway,turning_circle,regular
+83639224,highway,turning_circle,regular
+83639358,highway,turning_circle,regular
+83639581,highway,turning_circle,regular
+83640703,highway,turning_circle,regular
+83640969,highway,turning_circle,regular
+83643196,source,Yahoo,regular
+83643196,highway,turning_circle,regular
+83644157,highway,turning_circle,regular
+83646023,highway,turning_circle,regular
+83646477,highway,turning_circle,regular
+83647910,highway,turning_circle,regular
+83648099,source,Yahoo,regular
+83648099,highway,turning_circle,regular
+83648324,highway,turning_circle,regular
+83649082,highway,turning_circle,regular
+83650807,highway,turning_circle,regular
+83651405,highway,turning_circle,regular
+83653629,highway,turning_circle,regular
+83657242,highway,turning_circle,regular
+83657334,railway,crossing,regular
+83657404,highway,turning_circle,regular
+83658222,highway,turning_circle,regular
+83658320,highway,turning_circle,regular
+83659218,source,Yahoo,regular
+83659218,highway,turning_circle,regular
+83659304,highway,turning_circle,regular
+83663931,highway,turning_circle,regular
+83664138,highway,turning_circle,regular
+83665160,highway,turning_circle,regular
+83665964,highway,turning_circle,regular
+83666083,highway,turning_circle,regular
+83666961,source,Bing,regular
+83666961,highway,turning_circle,regular
+83668964,highway,turning_circle,regular
+83670550,highway,turning_circle,regular
+83672457,highway,turning_circle,regular
+83673651,highway,turning_circle,regular
+83677362,source,Yahoo,regular
+83677362,highway,turning_circle,regular
+83677971,crossing,traffic_signals,regular
+83677971,highway,crossing,regular
+83678470,highway,turning_circle,regular
+83679771,highway,turning_circle,regular
+83680940,highway,turning_circle,regular
+83681384,highway,turning_circle,regular
+83681608,highway,turning_circle,regular
+83682148,highway,turning_circle,regular
+83683433,highway,turning_circle,regular
+83684672,highway,turning_circle,regular
+83685107,highway,turning_circle,regular
+83688145,noexit,yes,regular
+83688534,highway,turning_circle,regular
+83688812,highway,turning_circle,regular
+83689082,highway,turning_circle,regular
+83689187,highway,turning_circle,regular
+83690060,highway,turning_circle,regular
+83690259,highway,turning_circle,regular
+83692629,highway,turning_circle,regular
+83693851,highway,turning_circle,regular
+83694879,highway,turning_circle,regular
+83695069,source,Yahoo,regular
+83695069,highway,turning_circle,regular
+83695749,highway,turning_circle,regular
+83697105,highway,turning_circle,regular
+83697270,highway,turning_circle,regular
+83700688,highway,turning_circle,regular
+83701886,highway,turning_circle,regular
+83702360,highway,turning_circle,regular
+83703504,highway,turning_circle,regular
+83704205,highway,turning_circle,regular
+83706038,highway,turning_circle,regular
+83708275,highway,turning_circle,regular
+83709001,highway,turning_circle,regular
+83712008,highway,turning_circle,regular
+83713190,highway,turning_circle,regular
+83714284,source,Bing,regular
+83714284,highway,turning_circle,regular
+83714580,highway,turning_circle,regular
+83715159,highway,turning_circle,regular
+83717509,highway,turning_circle,regular
+83717660,highway,turning_circle,regular
+83718203,highway,turning_circle,regular
+83718374,highway,turning_circle,regular
+83817637,highway,turning_circle,regular
+83867385,name,Super Condor Express,regular
+83867385,aerialway,station,regular
+83941939,power,pole,regular
+83941939,source,bing,regular
+84007002,highway,turning_circle,regular
+84008135,railway,level_crossing,regular
+84008177,railway,level_crossing,regular
+84012006,highway,turning_circle,regular
+84015766,highway,turning_circle,regular
+84018223,highway,turning_circle,regular
+84071311,source,bing,regular
+84071311,highway,turning_circle,regular
+84071556,highway,stop,regular
+84166187,highway,turning_circle,regular
+84181307,power,tower,regular
+84219133,highway,turning_circle,regular
+84407458,highway,traffic_signals,regular
+84502197,highway,turning_circle,regular
+84520880,highway,turning_circle,regular
+84520880,source,NAIP,regular
+84640058,highway,turning_circle,regular
+84715936,source,bing,regular
+84715936,highway,turning_circle,regular
+84728002,highway,traffic_signals,regular
+84728245,source,bing,regular
+84728245,highway,turning_circle,regular
+84729977,highway,turning_circle,regular
+84741812,highway,traffic_signals,regular
+84747966,highway,traffic_signals,regular
+84748285,source,NAIP,regular
+84748285,highway,turning_loop,regular
+84757770,highway,turning_circle,regular
+84763210,highway,turning_circle,regular
+84763497,source,NAIP,regular
+84763497,highway,turning_loop,regular
+84763867,highway,turning_circle,regular
+84763943,highway,traffic_signals,regular
+84764111,highway,turning_circle,regular
+84767325,highway,turning_loop,regular
+84768783,source,bing,regular
+84768783,highway,turning_circle,regular
+84774903,source,bing,regular
+84774903,highway,turning_circle,regular
+84777748,highway,turning_circle,regular
+84779583,source,bing,regular
+84779583,highway,turning_circle,regular
+84785923,source,bing,regular
+84785923,highway,turning_circle,regular
+84787470,source,bing,regular
+84787470,highway,turning_circle,regular
+84793120,source,NAIP,regular
+84793120,highway,turning_circle,regular
+84794751,highway,traffic_signals,regular
+84794890,highway,turning_circle,regular
+84797852,highway,turning_circle,regular
+84800308,source,bing,regular
+84800308,highway,turning_circle,regular
+84802058,highway,traffic_signals,regular
+84802058,traffic_signals,signal,regular
+84822530,source,bing,regular
+84822530,highway,turning_circle,regular
+84822875,highway,turning_circle,regular
+84825974,highway,turning_circle,regular
+84845079,highway,traffic_signals,regular
+84850470,junction,roundabout,regular
+84854118,source,bing,regular
+84854118,highway,turning_circle,regular
+84854332,source,bing,regular
+84854332,highway,turning_circle,regular
+84854643,highway,turning_circle,regular
+84858393,source,bing,regular
+84858393,highway,turning_circle,regular
+84860777,highway,stop,regular
+84865484,source,bing,regular
+84865484,highway,turning_circle,regular
+84868944,source,bing,regular
+84868944,highway,turning_circle,regular
+84870132,highway,turning_circle,regular
+84882442,highway,turning_circle,regular
+84888013,highway,crossing,regular
+84896845,highway,turning_circle,regular
+84901856,source,bing,regular
+84901856,highway,turning_circle,regular
+84902490,highway,turning_circle,regular
+84903636,source,bing,regular
+84903636,highway,turning_circle,regular
+84905389,source,bing,regular
+84905389,highway,turning_circle,regular
+84915901,highway,turning_circle,regular
+84917389,highway,traffic_signals,regular
+84917485,highway,turning_circle,regular
+84917681,highway,turning_circle,regular
+84918478,highway,turning_circle,regular
+84920019,highway,turning_circle,regular
+84927171,source,bing,regular
+84927171,highway,turning_circle,regular
+84933923,highway,turning_circle,regular
+84934808,highway,turning_circle,regular
+84954687,highway,turning_circle,regular
+150932278,ele,1390,regular
+150932278,name,Esquire Acres Five,regular
+150932278,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150932278,place,locality,regular
+150932278,id,1451909,gnis
+150932278,gnis:Class,Populated Place,regular
+150932278,gnis:County,Salt Lake,regular
+150932278,gnis:ST_num,49,regular
+150932278,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150932278,gnis:ST_alpha,UT,regular
+150932278,gnis:County_num,035,regular
+150933078,ele,1303,regular
+150933078,name,Wendell Circle,regular
+150933078,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150933078,place,locality,regular
+150933078,id,1452665,gnis
+150933078,gnis:Class,Populated Place,regular
+150933078,gnis:County,Salt Lake,regular
+150933078,gnis:ST_num,49,regular
+150933078,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150933078,gnis:ST_alpha,UT,regular
+150933078,gnis:County_num,035,regular
+150933497,ele,1415,regular
+150933497,name,Willow Creek Ranchettes,regular
+150933497,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150933497,place,locality,regular
+150933497,id,1452186,gnis
+150933497,gnis:Class,Populated Place,regular
+150933497,gnis:County,Salt Lake,regular
+150933497,gnis:ST_num,49,regular
+150933497,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150933497,gnis:ST_alpha,UT,regular
+150933497,gnis:County_num,035,regular
+150933760,ele,1421,regular
+150933760,name,Yale Heights,regular
+150933760,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150933760,place,locality,regular
+150933760,id,1452686,gnis
+150933760,gnis:Class,Populated Place,regular
+150933760,gnis:County,Salt Lake,regular
+150933760,gnis:ST_num,49,regular
+150933760,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150933760,gnis:ST_alpha,UT,regular
+150933760,gnis:County_num,035,regular
+150934057,ele,1321,regular
+150934057,name,Meadow Park,regular
+150934057,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150934057,place,locality,regular
+150934057,id,1452399,gnis
+150934057,gnis:Class,Populated Place,regular
+150934057,gnis:County,Salt Lake,regular
+150934057,gnis:ST_num,49,regular
+150934057,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150934057,gnis:ST_alpha,UT,regular
+150934057,gnis:County_num,035,regular
+150934738,ele,1362,regular
+150934738,name,Diamondville,regular
+150934738,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150934738,place,locality,regular
+150934738,id,1452327,gnis
+150934738,gnis:Class,Populated Place,regular
+150934738,gnis:County,Salt Lake,regular
+150934738,gnis:ST_num,49,regular
+150934738,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150934738,gnis:ST_alpha,UT,regular
+150934738,gnis:County_num,035,regular
+150935219,ele,1288,regular
+150935219,name,Salt Lake City,regular
+150935219,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150935219,place,city,regular
+150935219,capital,4,regular
+150935219,id,1454997,gnis
+150935219,en,Salt Lake City,name
+150935219,lt,Solt Leik Sitis,name
+150935219,pl,Salt Lake City,name
+150935219,ru,Солт-Лейк-Сити,name
+150935219,ta,சால்ட் லேக் நகரம்,name
+150935219,uk,Солт-Лейк-Сіті,name
+150935219,wikidata,Q23337,regular
+150935219,wikipedia,en:Salt Lake City,regular
+150935219,gnis:Class,Populated Place,regular
+150935219,population,192672,regular
+150935219,gnis:County,Salt Lake,regular
+150935219,gnis:ST_num,49,regular
+150935219,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150935219,gnis:ST_alpha,UT,regular
+150935219,country,United States,is_in
+150935219,state_capital,yes,regular
+150935219,gnis:County_num,035,regular
+150935219,continent,North America,is_in
+150935219,population,2015,census
+150935219,country_code,US,is_in
+150935731,ele,1300,regular
+150935731,name,Meadowbrook Farms,regular
+150935731,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150935731,place,locality,regular
+150935731,id,1451757,gnis
+150935731,gnis:Class,Populated Place,regular
+150935731,gnis:County,Salt Lake,regular
+150935731,gnis:ST_num,49,regular
+150935731,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150935731,gnis:ST_alpha,UT,regular
+150935731,gnis:County_num,035,regular
+150936145,ele,1337,regular
+150936145,name,Ashbrook Condominium,regular
+150936145,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150936145,id,1437226,gnis
+150936145,building,yes,regular
+150936145,gnis:Class,Populated Place,regular
+150936145,gnis:County,Salt Lake,regular
+150936145,gnis:ST_num,49,regular
+150936145,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150936145,gnis:ST_alpha,UT,regular
+150936145,gnis:County_num,035,regular
+150937117,ele,1378,regular
+150937117,name,Horsely Circle,regular
+150937117,is_in,"Davis,Utah,Utah,UT,USA",regular
+150937117,place,locality,regular
+150937117,id,1453804,gnis
+150937117,gnis:Class,Populated Place,regular
+150937117,gnis:County,Davis,regular
+150937117,gnis:ST_num,49,regular
+150937117,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150937117,gnis:ST_alpha,UT,regular
+150937117,gnis:County_num,011,regular
+150937380,ele,1348,regular
+150937380,name,Harvel Park Condo,regular
+150937380,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150937380,id,1437359,gnis
+150937380,building,yes,regular
+150937380,gnis:Class,Populated Place,regular
+150937380,gnis:County,Salt Lake,regular
+150937380,gnis:ST_num,49,regular
+150937380,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150937380,gnis:ST_alpha,UT,regular
+150937380,gnis:County_num,035,regular
+150937648,ele,1428,regular
+150937648,name,Cobblerock Lane,regular
+150937648,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150937648,place,locality,regular
+150937648,id,1452514,gnis
+150937648,gnis:Class,Populated Place,regular
+150937648,gnis:County,Salt Lake,regular
+150937648,gnis:ST_num,49,regular
+150937648,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150937648,gnis:ST_alpha,UT,regular
+150937648,gnis:County_num,035,regular
+150937914,ele,1337,regular
+150937914,name,Oquirlane,regular
+150937914,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150937914,place,locality,regular
+150937914,id,1451621,gnis
+150937914,gnis:Class,Populated Place,regular
+150937914,gnis:County,Salt Lake,regular
+150937914,gnis:ST_num,49,regular
+150937914,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150937914,gnis:ST_alpha,UT,regular
+150937914,gnis:County_num,035,regular
+150938245,ele,1354,regular
+150938245,name,Essex Court Condo,regular
+150938245,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150938245,id,1437353,gnis
+150938245,building,yes,regular
+150938245,gnis:Class,Populated Place,regular
+150938245,gnis:County,Salt Lake,regular
+150938245,gnis:ST_num,49,regular
+150938245,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150938245,gnis:ST_alpha,UT,regular
+150938245,gnis:County_num,035,regular
+150938730,ele,1412,regular
+150938730,name,Forest Park,regular
+150938730,is_in,"Davis,Utah,Utah,UT,USA",regular
+150938730,place,locality,regular
+150938730,id,1453795,gnis
+150938730,gnis:Class,Populated Place,regular
+150938730,gnis:County,Davis,regular
+150938730,gnis:ST_num,49,regular
+150938730,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150938730,gnis:ST_alpha,UT,regular
+150938730,gnis:County_num,011,regular
+150939135,ele,1347,regular
+150939135,name,Sears Addition,regular
+150939135,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150939135,place,locality,regular
+150939135,id,1451925,gnis
+150939135,gnis:Class,Populated Place,regular
+150939135,gnis:County,Salt Lake,regular
+150939135,gnis:ST_num,49,regular
+150939135,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150939135,gnis:ST_alpha,UT,regular
+150939135,gnis:County_num,035,regular
+150939663,ele,1377,regular
+150939663,name,Loredell,regular
+150939663,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150939663,place,locality,regular
+150939663,id,1452060,gnis
+150939663,gnis:Class,Populated Place,regular
+150939663,gnis:County,Salt Lake,regular
+150939663,gnis:ST_num,49,regular
+150939663,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150939663,gnis:ST_alpha,UT,regular
+150939663,gnis:County_num,035,regular
+150940103,ele,1336,regular
+150940103,name,Bailey,regular
+150940103,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150940103,place,locality,regular
+150940103,id,1451534,gnis
+150940103,gnis:Class,Populated Place,regular
+150940103,gnis:County,Salt Lake,regular
+150940103,gnis:ST_num,49,regular
+150940103,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150940103,gnis:ST_alpha,UT,regular
+150940103,gnis:County_num,035,regular
+150940570,ele,1326,regular
+150940570,name,Johnson,regular
+150940570,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150940570,place,locality,regular
+150940570,id,1452118,gnis
+150940570,gnis:Class,Populated Place,regular
+150940570,gnis:County,Salt Lake,regular
+150940570,gnis:ST_num,49,regular
+150940570,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150940570,gnis:ST_alpha,UT,regular
+150940570,gnis:County_num,035,regular
+150941119,ele,1309,regular
+150941119,name,Swallow,regular
+150941119,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150941119,place,locality,regular
+150941119,id,1451822,gnis
+150941119,gnis:Class,Populated Place,regular
+150941119,gnis:County,Salt Lake,regular
+150941119,gnis:ST_num,49,regular
+150941119,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150941119,gnis:ST_alpha,UT,regular
+150941119,gnis:County_num,035,regular
+150941565,ele,1432,regular
+150941565,name,Fruit Heights,regular
+150941565,is_in,"Davis,Utah,Utah,UT,USA",regular
+150941565,place,village,regular
+150941565,id,1441248,gnis
+150941565,gnis:Class,Populated Place,regular
+150941565,population,4910,regular
+150941565,gnis:County,Davis,regular
+150941565,gnis:ST_num,49,regular
+150941565,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150941565,gnis:ST_alpha,UT,regular
+150941565,gnis:County_num,011,regular
+150941565,population,4910;2006,census
+150942256,ele,1434,regular
+150942256,name,Cavalry Park,regular
+150942256,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150942256,place,locality,regular
+150942256,id,1452808,gnis
+150942256,gnis:Class,Populated Place,regular
+150942256,gnis:County,Salt Lake,regular
+150942256,gnis:ST_num,49,regular
+150942256,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150942256,gnis:ST_alpha,UT,regular
+150942256,gnis:County_num,035,regular
+150942767,ele,1373,regular
+150942767,name,Riverton Heights,regular
+150942767,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150942767,place,hamlet,regular
+150942767,id,1452771,gnis
+150942767,gnis:Class,Populated Place,regular
+150942767,gnis:County,Salt Lake,regular
+150942767,gnis:ST_num,49,regular
+150942767,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150942767,gnis:ST_alpha,UT,regular
+150942767,gnis:County_num,035,regular
+150943108,ele,2013,regular
+150943108,name,Snyderville,regular
+150943108,is_in,"Summit,Utah,Utah,UT,USA",regular
+150943108,place,hamlet,regular
+150943108,id,1445755,gnis
+150943108,gnis:Class,Populated Place,regular
+150943108,gnis:County,Summit,regular
+150943108,gnis:ST_num,49,regular
+150943108,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150943108,gnis:ST_alpha,UT,regular
+150943108,gnis:County_num,043,regular
+150943928,ele,1319,regular
+150943928,name,Century Condominium,regular
+150943928,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150943928,place,locality,regular
+150943928,id,1437182,gnis
+150943928,gnis:Class,Populated Place,regular
+150943928,gnis:County,Salt Lake,regular
+150943928,gnis:ST_num,49,regular
+150943928,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150943928,gnis:ST_alpha,UT,regular
+150943928,gnis:County_num,035,regular
+150944761,ele,1316,regular
+150944761,name,Bradford,regular
+150944761,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150944761,place,locality,regular
+150944761,id,1451995,gnis
+150944761,gnis:Class,Populated Place,regular
+150944761,gnis:County,Salt Lake,regular
+150944761,gnis:ST_num,49,regular
+150944761,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150944761,gnis:ST_alpha,UT,regular
+150944761,gnis:County_num,035,regular
+150945454,ele,1371,regular
+150945454,name,South View,regular
+150945454,is_in,"Davis,Utah,Utah,UT,USA",regular
+150945454,place,locality,regular
+150945454,id,1453866,gnis
+150945454,gnis:Class,Populated Place,regular
+150945454,gnis:County,Davis,regular
+150945454,gnis:ST_num,49,regular
+150945454,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150945454,gnis:ST_alpha,UT,regular
+150945454,gnis:County_num,011,regular
+150945995,ele,1351,regular
+150945995,name,Betty Heights,regular
+150945995,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150945995,place,locality,regular
+150945995,id,1452602,gnis
+150945995,gnis:Class,Populated Place,regular
+150945995,gnis:County,Salt Lake,regular
+150945995,gnis:ST_num,49,regular
+150945995,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150945995,gnis:ST_alpha,UT,regular
+150945995,gnis:County_num,035,regular
+150946403,ele,1320,regular
+150946403,name,Valley Center Number 2,regular
+150946403,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150946403,place,locality,regular
+150946403,id,1452484,gnis
+150946403,gnis:Class,Populated Place,regular
+150946403,gnis:County,Salt Lake,regular
+150946403,gnis:ST_num,49,regular
+150946403,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150946403,gnis:ST_alpha,UT,regular
+150946403,gnis:County_num,035,regular
+150947283,ele,1771,regular
+150947283,name,Little Mountain Canyon Condominium,regular
+150947283,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150947283,id,1449790,gnis
+150947283,building,yes,regular
+150947283,gnis:Class,Populated Place,regular
+150947283,gnis:County,Salt Lake,regular
+150947283,gnis:ST_num,49,regular
+150947283,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150947283,gnis:ST_alpha,UT,regular
+150947283,gnis:County_num,035,regular
+150947700,ele,1360,regular
+150947700,name,Grand-Dale Estates,regular
+150947700,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150947700,id,1452345,gnis
+150947700,building,yes,regular
+150947700,gnis:Class,Populated Place,regular
+150947700,gnis:County,Salt Lake,regular
+150947700,gnis:ST_num,49,regular
+150947700,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150947700,gnis:ST_alpha,UT,regular
+150947700,gnis:County_num,035,regular
+150948059,ele,1335,regular
+150948059,name,The Cottonwoods Condominium,regular
+150948059,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150948059,id,1454374,gnis
+150948059,building,yes,regular
+150948059,gnis:Class,Populated Place,regular
+150948059,gnis:County,Salt Lake,regular
+150948059,gnis:ST_num,49,regular
+150948059,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150948059,gnis:ST_alpha,UT,regular
+150948059,gnis:County_num,035,regular
+150948681,ele,1963,regular
+150948681,name,Cranmer,regular
+150948681,is_in,"Wasatch,Utah,Utah,UT,USA",regular
+150948681,place,hamlet,regular
+150948681,id,1437535,gnis
+150948681,gnis:Class,Populated Place,regular
+150948681,gnis:County,Wasatch,regular
+150948681,gnis:ST_num,49,regular
+150948681,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150948681,gnis:ST_alpha,UT,regular
+150948681,gnis:County_num,051,regular
+150949243,ele,1377,regular
+150949243,name,South Jordan Heights,regular
+150949243,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150949243,place,hamlet,regular
+150949243,id,1452743,gnis
+150949243,gnis:Class,Populated Place,regular
+150949243,gnis:County,Salt Lake,regular
+150949243,gnis:ST_num,49,regular
+150949243,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150949243,gnis:ST_alpha,UT,regular
+150949243,gnis:County_num,035,regular
+150949666,ele,1883,regular
+150949666,name,Mountain Top Park,regular
+150949666,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150949666,place,locality,regular
+150949666,id,1454283,gnis
+150949666,gnis:Class,Populated Place,regular
+150949666,gnis:County,Salt Lake,regular
+150949666,gnis:ST_num,49,regular
+150949666,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150949666,gnis:ST_alpha,UT,regular
+150949666,gnis:County_num,035,regular
+150950196,ele,1318,regular
+150950196,name,Winfield,regular
+150950196,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150950196,place,locality,regular
+150950196,id,1452681,gnis
+150950196,gnis:Class,Populated Place,regular
+150950196,gnis:County,Salt Lake,regular
+150950196,gnis:ST_num,49,regular
+150950196,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150950196,gnis:ST_alpha,UT,regular
+150950196,gnis:County_num,035,regular
+150951064,ele,1306,regular
+150951064,name,Smoot Farm Estates,regular
+150951064,is_in,"Davis,Utah,Utah,UT,USA",regular
+150951064,id,1455106,gnis
+150951064,building,yes,regular
+150951064,gnis:Class,Populated Place,regular
+150951064,gnis:County,Davis,regular
+150951064,gnis:ST_num,49,regular
+150951064,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150951064,gnis:ST_alpha,UT,regular
+150951064,gnis:County_num,011,regular
+150951576,ele,1307,regular
+150951576,name,Cleeos Acres,regular
+150951576,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150951576,place,locality,regular
+150951576,id,1451983,gnis
+150951576,gnis:Class,Populated Place,regular
+150951576,gnis:County,Salt Lake,regular
+150951576,gnis:ST_num,49,regular
+150951576,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150951576,gnis:ST_alpha,UT,regular
+150951576,gnis:County_num,035,regular
+150951894,ele,1370,regular
+150951894,name,Goldcrest,regular
+150951894,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150951894,place,hamlet,regular
+150951894,id,1452852,gnis
+150951894,gnis:Class,Populated Place,regular
+150951894,gnis:County,Salt Lake,regular
+150951894,gnis:ST_num,49,regular
+150951894,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150951894,gnis:ST_alpha,UT,regular
+150951894,gnis:County_num,035,regular
+150952213,ele,1286,regular
+150952213,name,Cone and Roberts Addition,regular
+150952213,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150952213,place,locality,regular
+150952213,id,1454191,gnis
+150952213,gnis:Class,Populated Place,regular
+150952213,gnis:County,Salt Lake,regular
+150952213,gnis:ST_num,49,regular
+150952213,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150952213,gnis:ST_alpha,UT,regular
+150952213,gnis:County_num,035,regular
+150952621,ele,1417,regular
+150952621,name,The Oaks,regular
+150952621,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150952621,place,locality,regular
+150952621,id,1454375,gnis
+150952621,gnis:Class,Populated Place,regular
+150952621,gnis:County,Salt Lake,regular
+150952621,gnis:ST_num,49,regular
+150952621,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150952621,gnis:ST_alpha,UT,regular
+150952621,gnis:County_num,035,regular
+150953034,ele,1462,regular
+150953034,name,Johnsons,regular
+150953034,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150953034,place,locality,regular
+150953034,id,1452542,gnis
+150953034,gnis:Class,Populated Place,regular
+150953034,gnis:County,Salt Lake,regular
+150953034,gnis:ST_num,49,regular
+150953034,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150953034,gnis:ST_alpha,UT,regular
+150953034,gnis:County_num,035,regular
+150953535,ele,1381,regular
+150953535,name,Oquirrh Hills Office Building Condo,regular
+150953535,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150953535,id,1437326,gnis
+150953535,building,yes,regular
+150953535,gnis:Class,Populated Place,regular
+150953535,gnis:County,Salt Lake,regular
+150953535,gnis:ST_num,49,regular
+150953535,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150953535,gnis:ST_alpha,UT,regular
+150953535,gnis:County_num,035,regular
+150954214,ele,1338,regular
+150954214,name,Crestfield,regular
+150954214,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150954214,place,locality,regular
+150954214,id,1452315,gnis
+150954214,gnis:Class,Populated Place,regular
+150954214,gnis:County,Salt Lake,regular
+150954214,gnis:ST_num,49,regular
+150954214,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150954214,gnis:ST_alpha,UT,regular
+150954214,gnis:County_num,035,regular
+150954711,ele,1356,regular
+150954711,name,Park Heights,regular
+150954711,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150954711,place,locality,regular
+150954711,id,1452424,gnis
+150954711,gnis:Class,Populated Place,regular
+150954711,gnis:County,Salt Lake,regular
+150954711,gnis:ST_num,49,regular
+150954711,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150954711,gnis:ST_alpha,UT,regular
+150954711,gnis:County_num,035,regular
+150955224,ele,1423,regular
+150955224,name,North Crest Park Condominium,regular
+150955224,id,1449778,gnis
+150955224,gnis:Class,Populated Place,regular
+150955224,gnis:County,Salt Lake,regular
+150955224,gnis:ST_num,49,regular
+150955224,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150955224,gnis:ST_alpha,UT,regular
+150955224,gnis:County_num,035,regular
+150955669,ele,1370,regular
+150955669,name,Duerden,regular
+150955669,is_in,"Davis,Utah,Utah,UT,USA",regular
+150955669,place,locality,regular
+150955669,id,1453733,gnis
+150955669,gnis:Class,Populated Place,regular
+150955669,gnis:County,Davis,regular
+150955669,gnis:ST_num,49,regular
+150955669,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150955669,gnis:ST_alpha,UT,regular
+150955669,gnis:County_num,011,regular
+150955846,ele,1312,regular
+150955846,name,Shorland,regular
+150955846,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150955846,place,locality,regular
+150955846,id,1452450,gnis
+150955846,gnis:Class,Populated Place,regular
+150955846,gnis:County,Salt Lake,regular
+150955846,gnis:ST_num,49,regular
+150955846,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150955846,gnis:ST_alpha,UT,regular
+150955846,gnis:County_num,035,regular
+150956391,ele,1362,regular
+150956391,name,Cherrywood Village,regular
+150956391,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150956391,place,locality,regular
+150956391,id,1452700,gnis
+150956391,gnis:Class,Populated Place,regular
+150956391,gnis:County,Salt Lake,regular
+150956391,gnis:ST_num,49,regular
+150956391,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150956391,gnis:ST_alpha,UT,regular
+150956391,gnis:County_num,035,regular
+150957318,ele,1377,regular
+150957318,name,Oakcrest,regular
+150957318,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150957318,place,locality,regular
+150957318,id,1452516,gnis
+150957318,gnis:Class,Populated Place,regular
+150957318,gnis:County,Salt Lake,regular
+150957318,gnis:ST_num,49,regular
+150957318,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150957318,gnis:ST_alpha,UT,regular
+150957318,gnis:County_num,035,regular
+150958060,ele,1393,regular
+150958060,name,Chattel Estates Number Four,regular
+150958060,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150958060,id,1452267,gnis
+150958060,building,yes,regular
+150958060,gnis:Class,Populated Place,regular
+150958060,gnis:County,Salt Lake,regular
+150958060,gnis:ST_num,49,regular
+150958060,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150958060,gnis:ST_alpha,UT,regular
+150958060,gnis:County_num,035,regular
+150958573,ele,1363,regular
+150958573,name,Woodside Heights,regular
+150958573,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150958573,place,locality,regular
+150958573,id,1452684,gnis
+150958573,gnis:Class,Populated Place,regular
+150958573,gnis:County,Salt Lake,regular
+150958573,gnis:ST_num,49,regular
+150958573,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150958573,gnis:ST_alpha,UT,regular
+150958573,gnis:County_num,035,regular
+150958853,ele,1427,regular
+150958853,name,Silver Ridge,regular
+150958853,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150958853,place,hamlet,regular
+150958853,id,1452937,gnis
+150958853,gnis:Class,Populated Place,regular
+150958853,gnis:County,Salt Lake,regular
+150958853,gnis:ST_num,49,regular
+150958853,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150958853,gnis:ST_alpha,UT,regular
+150958853,gnis:County_num,035,regular
+150959491,ele,1354,regular
+150959491,name,Deerfield Cove,regular
+150959491,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150959491,place,locality,regular
+150959491,id,1452361,gnis
+150959491,gnis:Class,Populated Place,regular
+150959491,gnis:County,Salt Lake,regular
+150959491,gnis:ST_num,49,regular
+150959491,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150959491,gnis:ST_alpha,UT,regular
+150959491,gnis:County_num,035,regular
+150959854,ele,1348,regular
+150959854,name,Sycamore,regular
+150959854,is_in,"Davis,Utah,Utah,UT,USA",regular
+150959854,place,locality,regular
+150959854,id,1453664,gnis
+150959854,gnis:Class,Populated Place,regular
+150959854,gnis:County,Davis,regular
+150959854,gnis:ST_num,49,regular
+150959854,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150959854,gnis:ST_alpha,UT,regular
+150959854,gnis:County_num,011,regular
+150960073,ele,1330,regular
+150960073,name,Crestwood,regular
+150960073,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150960073,place,locality,regular
+150960073,id,1452023,gnis
+150960073,gnis:Class,Populated Place,regular
+150960073,gnis:County,Salt Lake,regular
+150960073,gnis:ST_num,49,regular
+150960073,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150960073,gnis:ST_alpha,UT,regular
+150960073,gnis:County_num,035,regular
+150960391,ele,1478,regular
+150960391,name,Wooded Acres,regular
+150960391,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150960391,place,hamlet,regular
+150960391,id,1452975,gnis
+150960391,gnis:Class,Populated Place,regular
+150960391,gnis:County,Salt Lake,regular
+150960391,gnis:ST_num,49,regular
+150960391,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150960391,gnis:ST_alpha,UT,regular
+150960391,gnis:County_num,035,regular
+150960916,ele,1289,regular
+150960916,name,Wenco Acres,regular
+150960916,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150960916,place,locality,regular
+150960916,id,1451845,gnis
+150960916,gnis:Class,Populated Place,regular
+150960916,gnis:County,Salt Lake,regular
+150960916,gnis:ST_num,49,regular
+150960916,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150960916,gnis:ST_alpha,UT,regular
+150960916,gnis:County_num,035,regular
+150961732,ele,1358,regular
+150961732,name,Lawrence Estates,regular
+150961732,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150961732,id,1452269,gnis
+150961732,building,yes,regular
+150961732,gnis:Class,Populated Place,regular
+150961732,gnis:County,Salt Lake,regular
+150961732,gnis:ST_num,49,regular
+150961732,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150961732,gnis:ST_alpha,UT,regular
+150961732,gnis:County_num,035,regular
+150962258,ele,1306,regular
+150962258,name,Bayview Park,regular
+150962258,is_in,"Davis,Utah,Utah,UT,USA",regular
+150962258,place,locality,regular
+150962258,id,1453716,gnis
+150962258,gnis:Class,Populated Place,regular
+150962258,gnis:County,Davis,regular
+150962258,gnis:ST_num,49,regular
+150962258,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150962258,gnis:ST_alpha,UT,regular
+150962258,gnis:County_num,011,regular
+150962601,ele,1310,regular
+150962601,name,Van Dyke and Willey Condominium,regular
+150962601,is_in,"Davis,Utah,Utah,UT,USA",regular
+150962601,id,1449716,gnis
+150962601,building,yes,regular
+150962601,gnis:Class,Populated Place,regular
+150962601,gnis:County,Davis,regular
+150962601,gnis:ST_num,49,regular
+150962601,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150962601,gnis:ST_alpha,UT,regular
+150962601,gnis:County_num,011,regular
+150963532,ele,1411,regular
+150963532,name,Misty Hills Numbers 1-7,regular
+150963532,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150963532,place,locality,regular
+150963532,id,1452392,gnis
+150963532,gnis:Class,Populated Place,regular
+150963532,gnis:County,Salt Lake,regular
+150963532,gnis:ST_num,49,regular
+150963532,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150963532,gnis:ST_alpha,UT,regular
+150963532,gnis:County_num,035,regular
+150963926,ele,1301,regular
+150963926,name,Majestic Village,regular
+150963926,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150963926,place,locality,regular
+150963926,id,1452405,gnis
+150963926,gnis:Class,Populated Place,regular
+150963926,gnis:County,Salt Lake,regular
+150963926,gnis:ST_num,49,regular
+150963926,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150963926,gnis:ST_alpha,UT,regular
+150963926,gnis:County_num,035,regular
+150964443,ele,1330,regular
+150964443,name,Bountiful Park,regular
+150964443,is_in,"Davis,Utah,Utah,UT,USA",regular
+150964443,place,locality,regular
+150964443,id,1453719,gnis
+150964443,gnis:Class,Populated Place,regular
+150964443,gnis:County,Davis,regular
+150964443,gnis:ST_num,49,regular
+150964443,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150964443,gnis:ST_alpha,UT,regular
+150964443,gnis:County_num,011,regular
+150964776,ele,1454,regular
+150964776,name,Jolley,regular
+150964776,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150964776,place,hamlet,regular
+150964776,id,1452954,gnis
+150964776,gnis:Class,Populated Place,regular
+150964776,gnis:County,Salt Lake,regular
+150964776,gnis:ST_num,49,regular
+150964776,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150964776,gnis:ST_alpha,UT,regular
+150964776,gnis:County_num,035,regular
+150965163,ele,1387,regular
+150965163,name,Florence Hollow,regular
+150965163,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150965163,place,locality,regular
+150965163,id,1451910,gnis
+150965163,gnis:Class,Populated Place,regular
+150965163,gnis:County,Salt Lake,regular
+150965163,gnis:ST_num,49,regular
+150965163,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150965163,gnis:ST_alpha,UT,regular
+150965163,gnis:County_num,035,regular
+150965533,ele,1433,regular
+150965533,name,Willow Cereek Road Terrace,regular
+150965533,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150965533,place,locality,regular
+150965533,id,1452175,gnis
+150965533,gnis:Class,Populated Place,regular
+150965533,gnis:County,Salt Lake,regular
+150965533,gnis:ST_num,49,regular
+150965533,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150965533,gnis:ST_alpha,UT,regular
+150965533,gnis:County_num,035,regular
+150966371,ele,1543,regular
+150966371,name,Enchanted Hills,regular
+150966371,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150966371,place,locality,regular
+150966371,id,1452540,gnis
+150966371,gnis:Class,Populated Place,regular
+150966371,gnis:County,Salt Lake,regular
+150966371,gnis:ST_num,49,regular
+150966371,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150966371,gnis:ST_alpha,UT,regular
+150966371,gnis:County_num,035,regular
+150966720,ele,1335,regular
+150966720,name,County Wood,regular
+150966720,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150966720,place,locality,regular
+150966720,id,1452242,gnis
+150966720,gnis:Class,Populated Place,regular
+150966720,gnis:County,Salt Lake,regular
+150966720,gnis:ST_num,49,regular
+150966720,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150966720,gnis:ST_alpha,UT,regular
+150966720,gnis:County_num,035,regular
+150967277,ele,1319,regular
+150967277,name,Redwood Villa,regular
+150967277,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150967277,place,locality,regular
+150967277,id,1452433,gnis
+150967277,gnis:Class,Populated Place,regular
+150967277,gnis:County,Salt Lake,regular
+150967277,gnis:ST_num,49,regular
+150967277,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150967277,gnis:ST_alpha,UT,regular
+150967277,gnis:County_num,035,regular
+150967843,ele,1290,regular
+150967843,name,Mead Circle,regular
+150967843,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150967843,place,locality,regular
+150967843,id,1451756,gnis
+150967843,gnis:Class,Populated Place,regular
+150967843,gnis:County,Salt Lake,regular
+150967843,gnis:ST_num,49,regular
+150967843,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150967843,gnis:ST_alpha,UT,regular
+150967843,gnis:County_num,035,regular
+150967991,ele,1355,regular
+150967991,name,Wallace Heights,regular
+150967991,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150967991,place,hamlet,regular
+150967991,id,1437303,gnis
+150967991,gnis:Class,Populated Place,regular
+150967991,gnis:County,Salt Lake,regular
+150967991,gnis:ST_num,49,regular
+150967991,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150967991,gnis:ST_alpha,UT,regular
+150967991,gnis:County_num,035,regular
+150968257,ele,1330,regular
+150968257,name,Hyland Lake,regular
+150968257,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150968257,place,locality,regular
+150968257,id,1452117,gnis
+150968257,gnis:Class,Populated Place,regular
+150968257,gnis:County,Salt Lake,regular
+150968257,gnis:ST_num,49,regular
+150968257,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150968257,gnis:ST_alpha,UT,regular
+150968257,gnis:County_num,035,regular
+150969152,ele,1324,regular
+150969152,name,El Sid Condominium,regular
+150969152,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150969152,id,1437225,gnis
+150969152,building,yes,regular
+150969152,gnis:Class,Populated Place,regular
+150969152,gnis:County,Salt Lake,regular
+150969152,gnis:ST_num,49,regular
+150969152,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150969152,gnis:ST_alpha,UT,regular
+150969152,gnis:County_num,035,regular
+150970040,ele,1357,regular
+150970040,name,Freeman Butterfield,regular
+150970040,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150970040,place,hamlet,regular
+150970040,id,1452777,gnis
+150970040,gnis:Class,Populated Place,regular
+150970040,gnis:County,Salt Lake,regular
+150970040,gnis:ST_num,49,regular
+150970040,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150970040,gnis:ST_alpha,UT,regular
+150970040,gnis:County_num,035,regular
+150970599,ele,1332,regular
+150970599,name,Cameron Estates,regular
+150970599,is_in,"Davis,Utah,Utah,UT,USA",regular
+150970599,place,locality,regular
+150970599,id,1454146,gnis
+150970599,gnis:Class,Populated Place,regular
+150970599,gnis:County,Davis,regular
+150970599,gnis:ST_num,49,regular
+150970599,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150970599,gnis:ST_alpha,UT,regular
+150970599,gnis:County_num,011,regular
+150970889,ele,1348,regular
+150970889,name,Hillcrest,regular
+150970889,is_in,"Davis,Utah,Utah,UT,USA",regular
+150970889,place,locality,regular
+150970889,id,1453691,gnis
+150970889,gnis:Class,Populated Place,regular
+150970889,gnis:County,Davis,regular
+150970889,gnis:ST_num,49,regular
+150970889,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150970889,gnis:ST_alpha,UT,regular
+150970889,gnis:County_num,011,regular
+150971473,ele,1347,regular
+150971473,name,"Mountain View Estates Numbers 23,24,25,26",regular
+150971473,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150971473,id,1437395,gnis
+150971473,building,yes,regular
+150971473,gnis:Class,Populated Place,regular
+150971473,gnis:County,Salt Lake,regular
+150971473,gnis:ST_num,49,regular
+150971473,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150971473,gnis:ST_alpha,UT,regular
+150971473,gnis:County_num,035,regular
+150971734,ele,1352,regular
+150971734,name,Cottonwood Glade,regular
+150971734,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150971734,place,locality,regular
+150971734,id,1452075,gnis
+150971734,gnis:Class,Populated Place,regular
+150971734,gnis:County,Salt Lake,regular
+150971734,gnis:ST_num,49,regular
+150971734,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150971734,gnis:ST_alpha,UT,regular
+150971734,gnis:County_num,035,regular
+150972148,ele,1360,regular
+150972148,name,Lakeview Hills,regular
+150972148,is_in,"Davis,Utah,Utah,UT,USA",regular
+150972148,place,hamlet,regular
+150972148,id,1454126,gnis
+150972148,gnis:Class,Populated Place,regular
+150972148,gnis:County,Davis,regular
+150972148,gnis:ST_num,49,regular
+150972148,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150972148,gnis:ST_alpha,UT,regular
+150972148,gnis:County_num,011,regular
+150972774,ele,1458,regular
+150972774,name,Amby Briggs,regular
+150972774,is_in,"Davis,Utah,Utah,UT,USA",regular
+150972774,place,locality,regular
+150972774,id,1453774,gnis
+150972774,gnis:Class,Populated Place,regular
+150972774,gnis:County,Davis,regular
+150972774,gnis:ST_num,49,regular
+150972774,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150972774,gnis:ST_alpha,UT,regular
+150972774,gnis:County_num,011,regular
+150973542,ele,1310,regular
+150973542,name,Clover Hollow Condo,regular
+150973542,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150973542,id,1437308,gnis
+150973542,building,yes,regular
+150973542,gnis:Class,Populated Place,regular
+150973542,gnis:County,Salt Lake,regular
+150973542,gnis:ST_num,49,regular
+150973542,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150973542,gnis:ST_alpha,UT,regular
+150973542,gnis:County_num,035,regular
+150974248,ele,1359,regular
+150974248,name,Terra Linda,regular
+150974248,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150974248,place,locality,regular
+150974248,id,1451952,gnis
+150974248,gnis:Class,Populated Place,regular
+150974248,gnis:County,Salt Lake,regular
+150974248,gnis:ST_num,49,regular
+150974248,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150974248,gnis:ST_alpha,UT,regular
+150974248,gnis:County_num,035,regular
+150974883,ele,1304,regular
+150974883,name,Western Acres,regular
+150974883,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150974883,place,locality,regular
+150974883,id,1451848,gnis
+150974883,gnis:Class,Populated Place,regular
+150974883,gnis:County,Salt Lake,regular
+150974883,gnis:ST_num,49,regular
+150974883,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150974883,gnis:ST_alpha,UT,regular
+150974883,gnis:County_num,035,regular
+150975344,ele,1299,regular
+150975344,name,David Smith,regular
+150975344,is_in,"Davis,Utah,Utah,UT,USA",regular
+150975344,place,locality,regular
+150975344,id,1454148,gnis
+150975344,gnis:Class,Populated Place,regular
+150975344,gnis:County,Davis,regular
+150975344,gnis:ST_num,49,regular
+150975344,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150975344,gnis:ST_alpha,UT,regular
+150975344,gnis:County_num,011,regular
+150976387,ele,1546,regular
+150976387,name,Hansen,regular
+150976387,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150976387,place,hamlet,regular
+150976387,id,1452976,gnis
+150976387,gnis:Class,Populated Place,regular
+150976387,gnis:County,Salt Lake,regular
+150976387,gnis:ST_num,49,regular
+150976387,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150976387,gnis:ST_alpha,UT,regular
+150976387,gnis:County_num,035,regular
+150977167,ele,1382,regular
+150977167,name,Ezra Clark,regular
+150977167,is_in,"Davis,Utah,Utah,UT,USA",regular
+150977167,place,locality,regular
+150977167,id,1453793,gnis
+150977167,gnis:Class,Populated Place,regular
+150977167,gnis:County,Davis,regular
+150977167,gnis:ST_num,49,regular
+150977167,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150977167,gnis:ST_alpha,UT,regular
+150977167,gnis:County_num,011,regular
+150977825,ele,1289,regular
+150977825,name,Western,regular
+150977825,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150977825,place,locality,regular
+150977825,id,1454243,gnis
+150977825,gnis:Class,Populated Place,regular
+150977825,gnis:County,Salt Lake,regular
+150977825,gnis:ST_num,49,regular
+150977825,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150977825,gnis:ST_alpha,UT,regular
+150977825,gnis:County_num,035,regular
+150978286,ele,1292,regular
+150978286,name,Garfield,regular
+150978286,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150978286,place,hamlet,regular
+150978286,id,1437565,gnis
+150978286,gnis:Class,Populated Place,regular
+150978286,gnis:County,Salt Lake,regular
+150978286,gnis:ST_num,49,regular
+150978286,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150978286,gnis:ST_alpha,UT,regular
+150978286,gnis:County_num,035,regular
+150978841,ele,1313,regular
+150978841,name,Creekside East Condominium,regular
+150978841,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150978841,id,1449824,gnis
+150978841,building,yes,regular
+150978841,gnis:Class,Populated Place,regular
+150978841,gnis:County,Salt Lake,regular
+150978841,gnis:ST_num,49,regular
+150978841,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150978841,gnis:ST_alpha,UT,regular
+150978841,gnis:County_num,035,regular
+150979513,ele,1493,regular
+150979513,name,Fort Douglas,regular
+150979513,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150979513,place,locality,regular
+150979513,id,1441186,gnis
+150979513,gnis:Class,Populated Place,regular
+150979513,gnis:County,Salt Lake,regular
+150979513,gnis:ST_num,49,regular
+150979513,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150979513,gnis:ST_alpha,UT,regular
+150979513,gnis:County_num,035,regular
+150980334,ele,1547,regular
+150980334,name,Avondale Condo,regular
+150980334,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150980334,id,1449879,gnis
+150980334,building,yes,regular
+150980334,gnis:Class,Populated Place,regular
+150980334,gnis:County,Salt Lake,regular
+150980334,gnis:ST_num,49,regular
+150980334,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150980334,gnis:ST_alpha,UT,regular
+150980334,gnis:County_num,035,regular
+150980966,ele,1320,regular
+150980966,name,Day Park,regular
+150980966,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150980966,place,locality,regular
+150980966,id,1451577,gnis
+150980966,gnis:Class,Populated Place,regular
+150980966,gnis:County,Salt Lake,regular
+150980966,gnis:ST_num,49,regular
+150980966,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150980966,gnis:ST_alpha,UT,regular
+150980966,gnis:County_num,035,regular
+150981121,ele,1346,regular
+150981121,name,Brady Place,regular
+150981121,is_in,"Salt Lake,Utah,Utah,UT,USA",regular
+150981121,place,locality,regular
+150981121,id,1451540,gnis
+150981121,gnis:Class,Populated Place,regular
+150981121,gnis:County,Salt Lake,regular
+150981121,gnis:ST_num,49,regular
+150981121,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150981121,gnis:ST_alpha,UT,regular
+150981121,gnis:County_num,035,regular
+150981736,ele,1406,regular
+150981736,name,Jensen,regular
+150981736,is_in,"Davis,Utah,Utah,UT,USA",regular
+150981736,place,locality,regular
+150981736,id,1453806,gnis
+150981736,gnis:Class,Populated Place,regular
+150981736,gnis:County,Davis,regular
+150981736,gnis:ST_num,49,regular
+150981736,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+150981736,gnis:ST_alpha,UT,regular
+150981736,gnis:County_num,011,regular
+252166050,created_by,JOSM,regular
+287873241,source,Yahoo,regular
+287873241,highway,turning_circle,regular
+304413677,ref,4,regular
+304413677,highway,motorway_junction,regular
+306047197,highway,turning_circle,regular
+308035870,highway,turning_circle,regular
+309985132,ref,269,regular
+309985132,highway,motorway_junction,regular
+311203630,highway,traffic_signals,regular
+311335972,highway,turning_circle,regular
+316294436,name,Club Sound,regular
+316294436,amenity,nightclub,regular
+316294436,old_name,In The Venue,regular
+316294436,created_by,Potlatch 0.10f,regular
+316730794,waterway,weir,regular
+348157339,highway,turning_circle,regular
+352894293,ref,18B,regular
+352894293,highway,motorway_junction,regular
+353137004,amenity,fuel,regular
+353137004,operator,Tesoro,regular
+353137004,created_by,Potlatch 0.10f,regular
+355681853,name,Peak 5,regular
+355681853,aerialway,station,regular
+356521010,aerialway,station,regular
+356521010,access,entry,aerialway
+356672255,ele,2814,regular
+356672255,name,Butterfield Peaks,regular
+356672255,natural,peak,regular
+356672255,created,12/31/1979,gnis
+356672255,state_id,49,gnis
+356672255,county_id,045,gnis
+356672255,feature_id,1426234,gnis
+356673721,ele,1515,regular
+356673721,name,Mountain View Memorial Estates,regular
+356673721,amenity,grave_yard,regular
+356673721,edited,06/29/2007,gnis
+356673721,created,12/31/1979,gnis
+356673721,state_id,49,gnis
+356673721,county_id,035,gnis
+356673721,feature_id,1430539,gnis
+356674148,ele,1991,regular
+356674148,name,South Mountain,regular
+356674148,natural,peak,regular
+356674148,created,12/31/1979,gnis
+356674148,state_id,49,gnis
+356674148,county_id,045,gnis
+356674148,feature_id,1432739,gnis
+356675288,ele,1623,regular
+356675288,name,Kennecott Eastside Leaching Reservoir,regular
+356675288,landuse,reservoir,regular
+356675288,created_by,Potlatch 0.10f,regular
+356675288,created,02/25/1989,gnis
+356675288,state_id,49,gnis
+356675288,county_id,035,gnis
+356675288,feature_id,1434830,gnis
+356676389,ele,1298,regular
+356676389,name,Truckers Family Camp,regular
+356676389,leisure,park,regular
+356676389,created,02/25/1989,gnis
+356676389,state_id,49,gnis
+356676389,county_id,035,gnis
+356676389,feature_id,1436526,gnis
+356676543,ele,1326,regular
+356676543,name,Midvalley Bible Church,regular
+356676543,amenity,place_of_worship,regular
+356676543,religion,christian,regular
+356676543,created,02/25/1989,gnis
+356676543,state_id,49,gnis
+356676543,county_id,035,gnis
+356676543,feature_id,1436741,gnis
+356676621,ele,1305,regular
+356676621,name,The Church of Jesus Christ of Latter-day Saints,regular
+356676621,amenity,place_of_worship,regular
+356676621,religion,christian,regular
+356676621,denomination,mormon,regular
+356676621,created,02/25/1989,gnis
+356676621,state_id,49,gnis
+356676621,county_id,035,gnis
+356676621,feature_id,1436814,gnis
+356676717,ele,1299,regular
+356676717,name,The Church of Jesus Christ of Latter-day Saints,regular
+356676717,amenity,place_of_worship,regular
+356676717,religion,christian,regular
+356676717,denomination,mormon,regular
+356676717,created,02/25/1989,gnis
+356676717,state_id,49,gnis
+356676717,county_id,035,gnis
+356676717,feature_id,1436901,gnis
+356676896,ele,1342,regular
+356676896,name,The Church of Jesus Christ of Latter-day Saints,regular
+356676896,amenity,place_of_worship,regular
+356676896,religion,christian,regular
+356676896,denomination,mormon,regular
+356676896,created,02/25/1989,gnis
+356676896,state_id,49,gnis
+356676896,county_id,035,gnis
+356676896,feature_id,1436996,gnis
+356676978,ele,1433,regular
+356676978,name,The Church of Jesus Christ of Latter-day Saints,regular
+356676978,amenity,place_of_worship,regular
+356676978,religion,christian,regular
+356676978,denomination,mormon,regular
+356676978,created,02/25/1989,gnis
+356676978,state_id,49,gnis
+356676978,county_id,035,gnis
+356676978,feature_id,1437054,gnis
+356677033,ele,1301,regular
+356677033,name,The Church of Jesus Christ of Latter-day Saints,regular
+356677033,amenity,place_of_worship,regular
+356677033,religion,christian,regular
+356677033,denomination,mormon,regular
+356677033,created,02/25/1989,gnis
+356677033,state_id,49,gnis
+356677033,county_id,035,gnis
+356677033,feature_id,1437101,gnis
+356677091,ele,1350,regular
+356677091,name,The Church of Jesus Christ of Latter-day Saints,regular
+356677091,amenity,place_of_worship,regular
+356677091,religion,christian,regular
+356677091,denomination,mormon,regular
+356677091,created,02/25/1989,gnis
+356677091,state_id,49,gnis
+356677091,county_id,035,gnis
+356677091,feature_id,1437148,gnis
+356677498,ele,2391,regular
+356677498,name,Bald Mountain,regular
+356677498,natural,peak,regular
+356677498,created,12/31/1979,gnis
+356677498,state_id,49,gnis
+356677498,county_id,035,gnis
+356677498,feature_id,1438360,gnis
+356678643,ele,2506,regular
+356678643,name,Grandeur Peak,regular
+356678643,natural,peak,regular
+356678643,created,12/31/1979,gnis
+356678643,state_id,49,gnis
+356678643,county_id,035,gnis
+356678643,feature_id,1441406,gnis
+356679201,ele,1307,regular
+356679201,name,Salt Lake Intermediate School,regular
+356679201,amenity,school,regular
+356679201,created_by,Potlatch 0.10f,regular
+356679201,created,12/31/1979,gnis
+356679201,state_id,49,gnis
+356679201,county_id,035,gnis
+356679201,feature_id,1443129,gnis
+356679691,ele,1655,regular
+356679691,name,Red Rock,regular
+356679691,natural,peak,regular
+356679691,created,12/31/1979,gnis
+356679691,state_id,49,gnis
+356679691,county_id,035,gnis
+356679691,feature_id,1444832,gnis
+356680211,ele,1904,regular
+356680211,name,Twin Peaks,regular
+356680211,natural,peak,regular
+356680211,created,12/31/1979,gnis
+356680211,state_id,49,gnis
+356680211,county_id,035,gnis
+356680211,feature_id,1446798,gnis
+356681599,ele,1456,regular
+356681599,name,Larkin Sunset Lawn Cemetery,regular
+356681599,amenity,grave_yard,regular
+356681599,created,02/25/1989,gnis
+356681599,state_id,49,gnis
+356681599,county_id,035,gnis
+356681599,feature_id,1448576,gnis
+356682211,ele,1365,regular
+356682211,name,Carmel of the Immaculate Heart,regular
+356682211,amenity,place_of_worship,regular
+356682211,religion,christian,regular
+356682211,denomination,catholic,regular
+356682211,created,02/25/1989,gnis
+356682211,state_id,49,gnis
+356682211,county_id,035,gnis
+356682211,feature_id,1449231,gnis
+356682280,ele,1385,regular
+356682280,name,Kingdom Hall of Jehovahs Witnesses,regular
+356682280,amenity,place_of_worship,regular
+356682280,religion,christian,regular
+356682280,created_by,change_tags.py: gridstreetnames 0.4,regular
+356682280,denomination,jehovahs_witness,regular
+356682280,created,02/25/1989,gnis
+356682280,state_id,49,gnis
+356682280,county_id,049,gnis
+356682280,feature_id,1449289,gnis
+356682360,ele,1318,regular
+356682360,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682360,amenity,place_of_worship,regular
+356682360,religion,christian,regular
+356682360,denomination,mormon,regular
+356682360,created,02/25/1989,gnis
+356682360,state_id,49,gnis
+356682360,county_id,011,gnis
+356682360,feature_id,1449357,gnis
+356682509,ele,1320,regular
+356682509,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682509,amenity,place_of_worship,regular
+356682509,religion,christian,regular
+356682509,denomination,mormon,regular
+356682509,created,02/25/1989,gnis
+356682509,state_id,49,gnis
+356682509,county_id,011,gnis
+356682509,feature_id,1449404,gnis
+356682568,ele,1336,regular
+356682568,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682568,amenity,place_of_worship,regular
+356682568,religion,christian,regular
+356682568,denomination,mormon,regular
+356682568,created,02/25/1989,gnis
+356682568,state_id,49,gnis
+356682568,county_id,011,gnis
+356682568,feature_id,1449449,gnis
+356682612,ele,1530,regular
+356682612,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682612,amenity,place_of_worship,regular
+356682612,religion,christian,regular
+356682612,denomination,mormon,regular
+356682612,created,02/25/1989,gnis
+356682612,state_id,49,gnis
+356682612,county_id,035,gnis
+356682612,feature_id,1449486,gnis
+356682746,ele,1364,regular
+356682746,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682746,amenity,place_of_worship,regular
+356682746,religion,christian,regular
+356682746,denomination,mormon,regular
+356682746,created,02/25/1989,gnis
+356682746,state_id,49,gnis
+356682746,county_id,011,gnis
+356682746,feature_id,1449579,gnis
+356682925,ele,1351,regular
+356682925,name,The Church of Jesus Christ of Latter-day Saints,regular
+356682925,amenity,place_of_worship,regular
+356682925,religion,christian,regular
+356682925,denomination,mormon,regular
+356682925,created,02/25/1989,gnis
+356682925,state_id,49,gnis
+356682925,county_id,035,gnis
+356682925,feature_id,1449662,gnis
+356683340,ele,1566,regular
+356683340,name,First Assembly of God Church,regular
+356683340,amenity,place_of_worship,regular
+356683340,religion,christian,regular
+356683340,created,02/25/1989,gnis
+356683340,state_id,49,gnis
+356683340,county_id,045,gnis
+356683340,feature_id,1450589,gnis
+356683550,ele,1448,regular
+356683550,name,The Church of Jesus Christ of Latter-day Saints,regular
+356683550,amenity,place_of_worship,regular
+356683550,religion,christian,regular
+356683550,denomination,mormon,regular
+356683550,created,02/25/1989,gnis
+356683550,state_id,49,gnis
+356683550,county_id,049,gnis
+356683550,feature_id,1450708,gnis
+356683888,ele,1459,regular
+356683888,name,The Church of Jesus Christ of Latter-day Saints,regular
+356683888,amenity,place_of_worship,regular
+356683888,religion,christian,regular
+356683888,denomination,mormon,regular
+356683888,created,02/25/1989,gnis
+356683888,state_id,49,gnis
+356683888,county_id,049,gnis
+356683888,feature_id,1450873,gnis
+356684148,ele,1524,regular
+356684148,name,The Church of Jesus Christ of Latter-day Saints,regular
+356684148,amenity,place_of_worship,regular
+356684148,religion,christian,regular
+356684148,denomination,mormon,regular
+356684148,created,02/25/1989,gnis
+356684148,state_id,49,gnis
+356684148,county_id,045,gnis
+356684148,feature_id,1451003,gnis
+356684818,ele,1339,regular
+356684818,name,Midvale Post Office,regular
+356684818,amenity,post_office,regular
+356684818,created,02/25/1989,gnis
+356684818,state_id,49,gnis
+356684818,county_id,035,gnis
+356684818,feature_id,1455390,gnis
+356685015,ele,1415,regular
+356685015,name,The Church of Jesus Christ of Latter-day Saints,regular
+356685015,amenity,place_of_worship,regular
+356685015,religion,christian,regular
+356685015,denomination,mormon,regular
+356685015,created,02/25/1989,gnis
+356685015,state_id,49,gnis
+356685015,county_id,049,gnis
+356685015,feature_id,1455623,gnis
+356685198,ele,1298,regular
+356685198,name,KRSP-AM (South Salt Lake City),regular
+356685198,man_made,tower,regular
+356685198,created,02/25/1989,gnis
+356685198,state_id,49,gnis
+356685198,county_id,035,gnis
+356685198,feature_id,1455748,gnis
+356685330,ele,2162,regular
+356685330,name,KPCW-FM (Park City),regular
+356685330,man_made,tower,regular
+356685330,designation,KPCW,regular
+356685330,created,02/25/1989,gnis
+356685330,state_id,49,gnis
+356685330,county_id,043,gnis
+356685330,feature_id,1455801,gnis
+356685544,ele,3270,regular
+356685544,name,Freedom Peak,regular
+356685544,natural,peak,regular
+356685544,edited,09/22/2005,gnis
+356685544,created,07/18/2005,gnis
+356685544,state_id,49,gnis
+356685544,county_id,049,gnis
+356685544,feature_id,2071367,gnis
+356685775,ele,1341,regular
+356685775,name,Valley Christian Church,regular
+356685775,amenity,place_of_worship,regular
+356685775,religion,christian,regular
+356685775,created,05/28/2008,gnis
+356685775,state_id,49,gnis
+356685775,county_id,035,gnis
+356685775,feature_id,2432527,gnis
+356685821,ele,1426,regular
+356685821,name,Salt Lake Community College Millcreek Campus,regular
+356685821,amenity,school,regular
+356685821,created,05/28/2008,gnis
+356685821,state_id,49,gnis
+356685821,county_id,035,gnis
+356685821,feature_id,2432560,gnis
+356686001,ele,1456,regular
+356686001,name,Montessori School of Salt Lake,regular
+356686001,amenity,school,regular
+356686001,created,05/28/2008,gnis
+356686001,state_id,49,gnis
+356686001,county_id,035,gnis
+356686001,feature_id,2432665,gnis
+357733056,ref,288,regular
+357733056,highway,motorway_junction,regular
+357738778,highway,turning_circle,regular
+358648902,name,The Church of Jesus Christ of Latter-day Saints,regular
+358648902,amenity,place_of_worship,regular
+358648902,religion,christian,regular
+358648902,denomination,mormon,regular
+358657778,highway,turning_circle,regular
+360165896,created_by,Merkaartor 0.13,regular
+360597380,created_by,Merkaartor 0.13,regular
+366385492,ele,1420,regular
+366385492,name,Einer Nielsen Fieldhouse,regular
+366385492,website,http://www.web.utah.edu/campusrec/field_house/index.html,regular
+366385492,building,yes,regular
+366385492,state,UT,addr
+366385492,feature_id,2432412,gnis
+366385492,county_name,Salt Lake,gnis
+366385492,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+366385787,ele,2160,regular
+366385787,name,Park City City Hall,regular
+366385787,amenity,townhall,regular
+366385787,state,UT,addr
+366385787,feature_id,1901344,gnis
+366385787,county_name,Summit,gnis
+366385787,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+366467011,source,survey,regular
+366467011,highway,bus_stop,regular
+366467011,shelter,no,regular
+366467011,route_ref,803,regular
+366467011,created_by,Potlatch 0.10f,regular
+368980521,ele,2823,regular
+368980521,name,Baby McKee Mine,regular
+368980521,landuse,quarry,regular
+368980521,state,UT,addr
+368980521,created,12/31/1979,gnis
+368980521,feature_id,1425219,gnis
+368980521,county_name,Salt Lake,gnis
+368980521,feature_type,Mine,gnis
+368981353,ele,1893,regular
+368981353,name,Keeler Tunnel,regular
+368981353,landuse,quarry,regular
+368981353,state,UT,addr
+368981353,created,12/31/1979,gnis
+368981353,feature_id,1429293,gnis
+368981353,county_name,Wasatch,gnis
+368981353,feature_type,Mine,gnis
+368981562,ele,3086,regular
+368981562,name,Reed and Benson Mine,regular
+368981562,landuse,quarry,regular
+368981562,state,UT,addr
+368981562,created,12/31/1979,gnis
+368981562,feature_id,1431730,gnis
+368981562,county_name,Salt Lake,gnis
+368981562,feature_type,Mine,gnis
+368981771,ele,1292,regular
+368981771,name,BP Minerals-Garfield Heliport,regular
+368981771,aeroway,helipad,regular
+368981771,state,UT,addr
+368981771,source_ref,geonames.usgs.gov,regular
+368981771,created,02/25/1989,gnis
+368981771,feature_id,1435075,gnis
+368981771,county_name,Salt Lake,gnis
+368981771,feature_type,Airport,gnis
+368981981,ele,2181,regular
+368981981,name,Creole Tunnel,regular
+368981981,landuse,quarry,regular
+368981981,state,UT,addr
+368981981,created,12/31/1979,gnis
+368981981,feature_id,1440146,gnis
+368981981,county_name,Summit,gnis
+368981981,feature_type,Mine,gnis
+368982094,ele,2828,regular
+368982094,name,Jupiter Mine,regular
+368982094,landuse,quarry,regular
+368982094,state,UT,addr
+368982094,created,12/31/1979,gnis
+368982094,feature_id,1442257,gnis
+368982094,county_name,Summit,gnis
+368982094,feature_type,Mine,gnis
+368982230,state,UT,addr
+368982230,aeroway,helipad,regular
+368982230,ele,1304,regular
+368982230,county_name,Salt Lake,gnis
+368982230,created,02/25/1989,gnis
+368982230,feature_id,1448074,gnis
+368982230,feature_type,Airport,gnis
+368982230,name,American Towers Heliport,regular
+368982230,source_ref,geonames.usgs.gov,regular
+369635814,created_by,Merkaartor 0.13,regular
+369635839,created_by,Merkaartor 0.13,regular
+369639976,created_by,Merkaartor 0.13,regular
+369640602,created_by,Merkaartor 0.13,regular
+369640637,created_by,Merkaartor 0.13,regular
+369919580,power,tower,regular
+370186900,power,tower,regular
+370187315,power,tower,regular
+370188115,power,tower,regular
+370725577,power,tower,regular
+371033333,source,Yahoo,regular
+371033333,highway,turning_circle,regular
+372103589,power,tower,regular
+372978246,name,Holiday,regular
+372978246,amenity,fuel,regular
+373087460,railway,level_crossing,regular
+373590233,source,NAIP,regular
+373590233,highway,turning_circle,regular
+375984578,highway,traffic_signals,regular
+375984578,crossing,traffic_signals,regular
+382906097,highway,turning_circle,regular
+382910832,power,pole,regular
+382910832,source,bing,regular
+382911145,power,pole,regular
+382911145,source,bing,regular
+382911906,power,pole,regular
+382911906,source,bing,regular
+382911931,power,pole,regular
+382911931,source,bing,regular
+385024523,power,pole,regular
+385024523,source,bing,regular
+385026286,power,tower,regular
+385026735,power,tower,regular
+385026818,power,tower,regular
+385033828,power,tower,regular
+385035311,power,tower,regular
+385036229,power,pole,regular
+385036229,source,bing,regular
+385036255,power,pole,regular
+385036255,source,bing,regular
+385036280,power,pole,regular
+385036280,source,bing,regular
+385037852,power,tower,regular
+385037852,source,bing,regular
+385038044,power,tower,regular
+385038044,source,bing,regular
+385611410,power,tower,regular
+385611435,power,tower,regular
+385676540,power,tower,regular
+385676851,power,tower,regular
+385677305,power,tower,regular
+385679440,power,tower,regular
+385679992,power,tower,regular
+385694457,power,tower,regular
+385711952,power,tower,regular
+385715937,power,tower,regular
+385715937,source,Yahoo,regular
+385716970,power,tower,regular
+385716970,source,Yahoo,regular
+385717172,power,tower,regular
+385717172,source,Yahoo,regular
+385718211,power,tower,regular
+385720792,power,tower,regular
+387992591,power,tower,regular
+387992927,power,tower,regular
+387997718,power,tower,regular
+388434194,highway,turning_circle,regular
+388450819,power,tower,regular
+388450819,source,bing,regular
+388454589,power,tower,regular
+395204491,highway,crossing,regular
+403551668,power,tower,regular
+403551668,source,Yahoo,regular
+403557300,power,tower,regular
+403557300,source,Yahoo,regular
+403649396,power,tower,regular
+403649396,source,Yahoo,regular
+403650601,power,tower,regular
+403650601,source,Yahoo,regular
+403650635,power,tower,regular
+403650635,source,Yahoo,regular
+415249128,highway,turning_circle,regular
+420440938,source,Yahoo,regular
+420440938,highway,turning_circle,regular
+426509234,highway,turning_circle,regular
+426541673,name,Arctic Circle,regular
+426541673,amenity,fast_food,regular
+426541673,cuisine,burger,regular
+428996640,amenity,bench,regular
+430996999,highway,turning_circle,regular
+432739393,city,Lindon,addr
+432739393,state,Utah,addr
+432739393,street,West 200 South,addr
+432739393,country,US,addr
+432739393,housenumber,663,addr
+432783810,highway,turning_circle,regular
+432783837,highway,turning_circle,regular
+432787976,highway,turning_circle,regular
+435908368,highway,turning_circle,regular
+436127795,highway,turning_circle,regular
+441991589,highway,turning_circle,regular
+450750724,highway,turning_circle,regular
+453055008,highway,turning_circle,regular
+454000226,source,Yahoo,regular
+454000226,highway,turning_circle,regular
+454076160,highway,turning_circle,regular
+454076449,highway,turning_circle,regular
+454367198,highway,turning_circle,regular
+454440455,highway,turning_circle,regular
+454572790,highway,turning_circle,regular
+454625286,source,Yahoo,regular
+454625286,highway,turning_circle,regular
+454627516,source,Yahoo,regular
+454627516,highway,turning_circle,regular
+457263641,highway,turning_circle,regular
+457265817,highway,turning_circle,regular
+457512478,ref,B8,regular
+457512478,aeroway,gate,regular
+457767084,highway,turning_circle,regular
+458469384,source,Yahoo,regular
+458469384,highway,turning_circle,regular
+461251658,amenity,fuel,regular
+469449474,junction,roundabout,regular
+470780631,highway,turning_circle,regular
+472332216,power,tower,regular
+472332216,source,Bing,regular
+472333710,power,tower,regular
+472501572,power,tower,regular
+472513115,ref,21,regular
+472513115,highway,motorway_junction,regular
+472558175,highway,turning_circle,regular
+472563733,highway,turning_circle,regular
+475212717,name,7-11,regular
+475212717,shop,convenience,regular
+475427220,name,Wells Fargo,regular
+475427220,amenity,bank,regular
+475427220,operator,Wells Fargo Bank,regular
+475769064,city,Park City,addr
+475769064,street,Cedar Court,addr
+475769064,postcode,84098,addr
+475769064,housenumber,4689,addr
+480980206,name,The Church of Jesus Christ of Latter-day Saints,regular
+480980206,amenity,place_of_worship,regular
+480980206,religion,christian,regular
+480980206,denomination,mormon,regular
+485036171,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485038334,gnis,01431995,regular
+485038334,name,Rose Canyon Spring,regular
+485038334,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485041767,nhd-shp,Fri May 09 00:00:00 MDT 2003,regular
+485043255,nhd-shp,Fri May 09 00:00:00 MDT 2003,regular
+485285791,natural,spring,regular
+485285791,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485285858,natural,spring,regular
+485285858,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485286154,natural,spring,regular
+485286154,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485286413,natural,spring,regular
+485286413,nhd-shp,Wed Jul 24 00:00:00 MDT 2002,regular
+485288659,natural,spring,regular
+485288659,nhd-shp,Fri May 09 00:00:00 MDT 2003,regular
+485488906,nhd-shp:ComID,47433838,regular
+485488906,nhd-shp:FCode,45000,regular
+485488906,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485488906,nhd-shp:FTYPE,SinkRise,regular
+485489906,nhd-shp:ComID,47440680,regular
+485489906,nhd-shp:FCode,45000,regular
+485489906,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485489906,nhd-shp:FTYPE,SinkRise,regular
+485490580,name,Hellgate Spring,regular
+485490580,natural,spring,regular
+485490580,nhd-shp:ComID,47431398,regular
+485490580,nhd-shp:FCode,45800,regular
+485490580,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485490580,nhd-shp:FTYPE,SpringSeep,regular
+485491295,natural,spring,regular
+485491295,nhd-shp:ComID,47437392,regular
+485491295,nhd-shp:FCode,45800,regular
+485491295,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485491295,nhd-shp:FTYPE,SpringSeep,regular
+485491714,name,Alexander Spring,regular
+485491714,natural,spring,regular
+485491714,nhd-shp:ComID,47437958,regular
+485491714,nhd-shp:FCode,45800,regular
+485491714,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485491714,nhd-shp:FTYPE,SpringSeep,regular
+485492351,name,Rock Spring,regular
+485492351,natural,spring,regular
+485492351,nhd-shp:ComID,83637209,regular
+485492351,nhd-shp:FCode,45800,regular
+485492351,nhd-shp:FDate,Fri May 09 00:00:00 MDT 2003,regular
+485492351,nhd-shp:FTYPE,SpringSeep,regular
+485493840,natural,spring,regular
+485493840,nhd-shp:ComID,83637431,regular
+485493840,nhd-shp:FCode,45800,regular
+485493840,nhd-shp:FDate,Fri May 09 00:00:00 MDT 2003,regular
+485493840,nhd-shp:FTYPE,SpringSeep,regular
+485494262,nhd-shp:ComID,47432958,regular
+485494262,nhd-shp:FCode,48800,regular
+485494262,nhd-shp:FDate,Wed Jul 24 00:00:00 MDT 2002,regular
+485494262,nhd-shp:FTYPE,Well,regular
+485494995,nhd-shp:ComID,83637193,regular
+485494995,nhd-shp:FCode,48800,regular
+485494995,nhd-shp:FDate,Fri May 09 00:00:00 MDT 2003,regular
+485494995,nhd-shp:FTYPE,Well,regular
+495440735,power,tower,regular
+496536079,highway,turning_circle,regular
+502620669,name,Burger King,regular
+502620669,amenity,fast_food,regular
+502650378,highway,turning_circle,regular
+503845574,amenity,fuel,regular
+503845574,name,Chevron,regular
+503861490,highway,turning_circle,regular
+506069896,highway,turning_circle,regular
+506451937,highway,turning_circle,regular
+509910637,amenity,parking,regular
+511995147,amenity,place_of_worship,regular
+511995147,religion,christian,regular
+513062291,amenity,parking,regular
+513075475,shop,car,regular
+520520279,highway,turning_circle,regular
+565676967,highway,turning_circle,regular
+566529041,highway,bus_stop,regular
+566529041,shelter,no,regular
+585370690,name,Shale Mine,regular
+585370690,note,"Record <a href=""http://tin.er.usgs.gov/mineplant/show.php?labno=554"">554</a> of the <a href=""http://tin.er.usgs.gov/mineplant/"">Active mines and mineral plants in the US</a>",regular
+585370690,landuse,quarry,regular
+585370690,man_made,mine,regular
+617912826,aerialway,station,regular
+663115759,source,Yahoo,regular
+663115759,highway,turning_circle,regular
+664696717,name,Mid-Mountain,regular
+664696717,amenity,restaurant,regular
+691104335,source,bing,regular
+691104335,highway,turning_circle,regular
+692179534,name,Chevron,regular
+692179534,shop,convenience,regular
+697206308,name,Top Stop Convenience Store,regular
+697206308,shop,convenience,regular
+720507588,name,Kids On The Move,regular
+720507588,amenity,school,regular
+730963653,name,House of Bread,regular
+730963653,amenity,cafe,regular
+767961867,amenity,toilets,regular
+935695124,leisure,playground,regular
+937311188,source,survey,regular
+937311188,leisure,playground,regular
+937312127,access,permissive,regular
+937312127,source,survey,regular
+937312127,barrier,gate,regular
+937383860,housenumber,2334,addr
+938186910,highway,turning_circle,regular
+942847482,housenumber,1045,addr
+944731447,name,Lindon Police Station,regular
+944731447,source,survey,regular
+944731447,amenity,police,regular
+944776426,highway,turning_circle,regular
+944826508,housenumber,928,addr
+944835252,housenumber,1368,addr
+944842015,street,East 350 South,addr
+944842015,housenumber,1644,addr
+944846304,housenumber,521,addr
+949358188,name,The Church of Jesus Christ of Latter-day Saints,regular
+949358188,amenity,place_of_worship,regular
+949358188,religion,christian,regular
+949358188,denomination,mormon,regular
+950702732,name,Arby's,regular
+950702732,amenity,fast_food,regular
+950702732,cuisine,sandwich,regular
+950768308,name,Trek,regular
+950768308,shop,bicycle,regular
+950861364,name,Doug Smith Autoplex,regular
+950861364,shop,car,regular
+950910493,amenity,parking,regular
+951114640,name,Freedom Wireless,regular
+951114640,shop,mobile_phone,regular
+951114640,source,survey,regular
+951196083,name,Maverik,regular
+951196083,amenity,fuel,regular
+952981987,housenumber,825,addr
+953677983,housenumber,1384,addr
+953739009,housenumber,1131,addr
+953767075,housenumber,1215,addr
+953928507,housenumber,854,addr
+954080299,housenumber,1170,addr
+954249232,traffic_calming,dip,regular
+955414913,highway,turning_circle,regular
+957753488,name,Little Learners,regular
+957753488,amenity,kindergarten,regular
+957769099,highway,bus_stop,regular
+957769131,amenity,car_wash,regular
+957769131,name,Express Wash,regular
+959120917,name,Flatiron,regular
+959120917,office,company,regular
+959129488,housenumber,576,addr
+959130749,highway,crossing,regular
+959137202,shop,money_lender,regular
+959137202,housenumber,159,addr
+962001427,amenity,place_of_worship,regular
+962423851,amenity,dentist,regular
+962423851,housenumber,226,addr
+962546014,housenumber,1095,addr
+962620364,power,tower,regular
+962841711,housenumber,9491,addr
+962901041,housenumber,9038,addr
+962921098,housenumber,8861,addr
+962953362,housenumber,9355,addr
+963710994,highway,turning_circle,regular
+976724178,highway,turning_circle,regular
+976827386,highway,crossing,regular
+977244965,housenumber,220,addr
+986280780,power,tower,regular
+986280780,source,Yahoo,regular
+986280817,power,tower,regular
+986280817,source,Yahoo,regular
+986285427,power,tower,regular
+986285427,source,Yahoo,regular
+1030154428,name,Kid to Kid,regular
+1030154428,shop,second_hand,regular
+1030154428,source,survey,regular
+1030223366,source,bing,regular
+1030223366,leisure,playground,regular
+1042013093,source,survey,regular
+1042013093,highway,stop,regular
+1100677007,access,staff,regular
+1100677007,source,knowledge,regular
+1100677007,barrier,gate,regular
+1103682436,name,Home Fabrics,regular
+1103682436,shop,fabric,regular
+1103682436,source,survey,regular
+1103682939,name,Smash Burger,regular
+1103682939,source,survey,regular
+1103682939,amenity,fast_food,regular
+1103682939,cuisine,burger,regular
+1103967039,highway,turning_circle,regular
+1103967039,source,NAIP,regular
+1122706430,name,H&R Block,regular
+1122706430,office,accountant,regular
+1123934418,source,NAIP,regular
+1123934418,highway,turning_circle,regular
+1148186481,tourism,picnic_site,regular
+1150119839,highway,turning_circle,regular
+1156982299,source,NAIP,regular
+1156982299,leisure,playground,regular
+1158427440,highway,bus_stop,regular
+1167237809,source,NAIP,regular
+1167237809,highway,turning_circle,regular
+1186087302,source,NAIP,regular
+1186087302,leisure,playground,regular
+1188668010,source,Yahoo,regular
+1188668010,natural,tree,regular
+1188668010,leaf_type,broadleaved,regular
+1188668049,source,Yahoo,regular
+1188668049,natural,tree,regular
+1188668049,leaf_type,broadleaved,regular
+1188668079,source,Yahoo,regular
+1188668079,natural,tree,regular
+1188668079,leaf_type,broadleaved,regular
+1188668123,source,Yahoo,regular
+1188668123,natural,tree,regular
+1188668123,leaf_type,broadleaved,regular
+1188668170,source,Yahoo,regular
+1188668170,natural,tree,regular
+1188668170,leaf_type,broadleaved,regular
+1188668216,source,Yahoo,regular
+1188668216,natural,tree,regular
+1188668216,leaf_type,broadleaved,regular
+1190057932,highway,turning_circle,regular
+1190362304,highway,turning_circle,regular
+1190362329,highway,turning_circle,regular
+1190362354,highway,turning_circle,regular
+1190439787,highway,turning_circle,regular
+1192156258,highway,turning_circle,regular
+1192169015,highway,turning_circle,regular
+1201267205,man_made,tower,regular
+1205461572,power,tower,regular
+1205461665,power,tower,regular
+1205461767,power,tower,regular
+1205461835,power,tower,regular
+1205461921,power,tower,regular
+1205462013,power,tower,regular
+1205462098,power,tower,regular
+1205462229,power,tower,regular
+1205462429,power,tower,regular
+1205462630,power,tower,regular
+1251982427,highway,turning_circle,regular
+1252031324,highway,turning_circle,regular
+1285497747,highway,turning_circle,regular
+1293270776,source,Bing,regular
+1293270776,highway,turning_circle,regular
+1293762508,amenity,swimming_pool,regular
+1311481577,highway,turning_circle,regular
+1317522595,source,knowledge,regular
+1317522595,amenity,bench,regular
+1399278905,street,1st Avenue,addr
+1399278905,postcode,84103,addr
+1399278905,housenumber,1109,addr
+1400559603,highway,crossing,regular
+1400559603,crossing,traffic_signals,regular
+1402883910,railway,crossing,regular
+1404738571,city,Salt Lake City,addr
+1404738571,street,2nd Avenue,addr
+1404738571,postcode,84103,addr
+1404738571,housenumber,615,addr
+1404738652,city,Salt Lake City,addr
+1404738652,street,2nd Avenue,addr
+1404738652,postcode,84103,addr
+1404738652,housenumber,816,addr
+1404738763,city,Salt Lake City,addr
+1404738763,street,2nd Avenue,addr
+1404738763,postcode,84103,addr
+1404738763,housenumber,965,addr
+1425471590,natural,tree,regular
+1425471688,natural,tree,regular
+1432947786,name,Jiffy Lube,regular
+1432947786,shop,car_repair,regular
+1434077592,highway,turning_circle,regular
+1467750081,name,Bladework Hair Studio,regular
+1467750081,shop,hairdresser,regular
+1467750132,natural,tree,regular
+1467750157,natural,tree,regular
+1467750420,natural,tree,regular
+1467750548,natural,tree,regular
+1467750573,natural,tree,regular
+1467750598,natural,tree,regular
+1467755540,natural,tree,regular
+1467755639,natural,tree,regular
+1467764316,natural,tree,regular
+1467764370,natural,tree,regular
+1467764421,natural,tree,regular
+1467764512,natural,tree,regular
+1509814235,aerialway,station,regular
+1509814235,access,entry,aerialway
+1520496406,highway,traffic_signals,regular
+1520496406,crossing,traffic_signals,regular
+1525441466,natural,tree,regular
+1525461606,highway,crossing,regular
+1527763451,access,private,regular
+1527763451,barrier,gate,regular
+1527763554,railway,level_crossing,regular
+1573548231,highway,traffic_signals,regular
+1573548319,highway,traffic_signals,regular
+1573548319,crossing,traffic_signals,regular
+1573548467,amenity,bench,regular
+1574971186,highway,traffic_signals,regular
+1581342029,name,Broadway Theater,regular
+1581342029,amenity,cinema,regular
+1581342125,highway,crossing,regular
+1581342125,crossing,uncontrolled,regular
+1581511259,highway,crossing,regular
+1581511259,crossing,traffic_signals,regular
+1581511404,highway,crossing,regular
+1581511404,crossing,unmarked,regular
+1581511605,railway,crossing,regular
+1583931806,natural,tree,regular
+1583931856,natural,tree,regular
+1585087106,highway,traffic_signals,regular
+1585087106,crossing,traffic_signals,regular
+1586516165,highway,stop,regular
+1595614637,highway,traffic_signals,regular
+1605131251,shop,adult,regular
+1609058777,entrance,yes,regular
+1610739691,highway,traffic_signals,regular
+1611687515,name,A&W,regular
+1611687515,amenity,fast_food,regular
+1611687515,cuisine,burger,regular
+1611688376,amenity,fuel,regular
+1611744258,crossing,traffic_signals,regular
+1611744258,highway,crossing,regular
+1611744308,highway,stop,regular
+1615722011,railway,level_crossing,regular
+1616750073,highway,crossing,regular
+1616750073,crossing,traffic_signals,regular
+1621245018,highway,traffic_signals,regular
+1636824397,entrance,yes,regular
+1639541944,entrance,main,regular
+1643863978,power,tower,regular
+1643864036,power,tower,regular
+1645185807,power,tower,regular
+1645185807,source,Bing,regular
+1645185832,power,tower,regular
+1645185832,source,Bing,regular
+1650832937,amenity,parking,regular
+1650832937,parking,surface,regular
+1651769934,man_made,tower,regular
+1664578492,highway,turning_circle,regular
+1666772160,highway,turning_circle,regular
+1671455497,railway,level_crossing,regular
+1676296130,name,7-11,regular
+1676296130,amenity,fuel,regular
+1676348195,highway,turning_circle,regular
+1676370406,highway,turning_circle,regular
+1676370454,highway,turning_circle,regular
+1676370687,highway,turning_circle,regular
+1678212029,highway,turning_circle,regular
+1678228161,highway,turning_circle,regular
+1678228202,highway,turning_circle,regular
+1679001419,highway,turning_circle,regular
+1679001479,highway,turning_circle,regular
+1679001681,highway,turning_circle,regular
+1682525056,highway,turning_circle,regular
+1682525093,highway,turning_circle,regular
+1683182295,highway,turning_circle,regular
+1687552180,source,bing,regular
+1687552180,railway,level_crossing,regular
+1687584593,highway,traffic_signals,regular
+1692132064,railway,level_crossing,regular
+1697008997,highway,traffic_signals,regular
+1717960872,amenity,toilets,regular
+1717973786,amenity,toilets,regular
+1718053759,amenity,drinking_water,regular
+1726962617,power,tower,regular
+1726962617,source,bing,regular
+1726962732,power,tower,regular
+1726962732,source,bing,regular
+1726962782,power,tower,regular
+1726962782,source,bing,regular
+1726962860,power,tower,regular
+1726962860,source,bing,regular
+1726963029,power,tower,regular
+1726963029,source,bing,regular
+1744470065,traffic_calming,bump,regular
+1746921197,name,Ruth's Diner,regular
+1746921197,amenity,restaurant,regular
+1770203019,name,Maverik,regular
+1770203019,brand,Maverik,regular
+1770203019,amenity,fuel,regular
+1784097495,highway,turning_circle,regular
+1784659873,name,Tooele North Stake Centre,regular
+1784659873,amenity,place_of_worship,regular
+1784659873,religion,christian,regular
+1784659873,denomination,latter_day_saints,regular
+1784694042,amenity,place_of_worship,regular
+1784694042,religion,christian,regular
+1784694042,denomination,latter_day_saints,regular
+1805883968,highway,turning_circle,regular
+1805884014,highway,turning_circle,regular
+1806183134,highway,turning_circle,regular
+1808733617,highway,turning_circle,regular
+1819675115,power,tower,regular
+1819675145,power,tower,regular
+1819675174,power,tower,regular
+1819675229,power,tower,regular
+1819675289,power,tower,regular
+1819675318,power,tower,regular
+1819675376,power,tower,regular
+1824951682,power,tower,regular
+1824951765,power,pole,regular
+1824951834,power,tower,regular
+1824951875,power,tower,regular
+1824951973,power,tower,regular
+1824952077,power,tower,regular
+1824952200,power,tower,regular
+1824952274,power,tower,regular
+1824952380,power,tower,regular
+1830438595,railway,level_crossing,regular
+1832170541,highway,crossing,regular
+1832170541,crossing,traffic_signals,regular
+1834310686,name,Toasters,regular
+1834310686,amenity,restaurant,regular
+1834310775,amenity,post_box,regular
+1834310775,operator,USPS,regular
+1834370529,name,The Off Broadway Theatre,regular
+1834370529,amenity,theatre,regular
+1835653672,highway,traffic_signals,regular
+1835653672,railway,level_crossing,regular
+1835653672,crossing,traffic_signals,regular
+1836920821,natural,tree,regular
+1836920857,source,bing,regular
+1836920857,natural,tree,regular
+1847431354,building,entrance,regular
+1871931506,amenity,cafe,regular
+1876919020,highway,turning_circle,regular
+1876919439,highway,turning_circle,regular
+1887611075,highway,turning_circle,regular
+1892684492,highway,turning_circle,regular
+1901564994,highway,turning_circle,regular
+1901565169,highway,turning_circle,regular
+1901565902,highway,turning_circle,regular
+1901691693,highway,turning_circle,regular
+1902850263,highway,turning_circle,regular
+1903207551,highway,turning_circle,regular
+1903207576,highway,turning_circle,regular
+1927361877,amenity,fuel,regular
+1931804179,crossing,traffic_signals,regular
+1931804179,highway,crossing,regular
+1937387685,amenity,parking,regular
+1942374568,highway,turning_circle,regular
+1967692196,railway,level_crossing,regular
+2001245889,highway,turning_circle,regular
+2008976480,highway,crossing,regular
+2009611012,name,Trolley,regular
+2009611012,network,TRAX,regular
+2009611012,railway,tram_stop,regular
+2009611012,wikidata,Q7845183,regular
+2018002734,highway,crossing,regular
+2018002734,crossing,uncontrolled,regular
+2022243078,access,permissive,regular
+2022243078,amenity,bicycle_parking,regular
+2022243078,covered,no,regular
+2022243078,bicycle_parking,stands,regular
+2026700996,highway,crossing,regular
+2026700996,crossing,unmarked,regular
+2026701060,highway,crossing,regular
+2026701060,crossing,traffic_signals,regular
+2031981433,power,tower,regular
+2031981460,power,tower,regular
+2031981501,power,tower,regular
+2031981542,power,tower,regular
+2042162511,highway,turning_circle,regular
+2048582454,highway,crossing,regular
+2048582454,crossing,uncontrolled,regular
+2053755102,name,Greyhound Bus Lines,regular
+2053755102,amenity,bus_station,regular
+2053755102,covered,yes,regular
+2053755102,network,Greyhound Bus Lines,regular
+2053755102,operator,Greyhound Bus Lines,regular
+2053755102,city,Salt Lake City,addr
+2053755102,wheelchair,yes,regular
+2053755102,street,400 West,addr
+2053755102,opening_hours,24/7,regular
+2053755102,public_transport,station,regular
+2055570332,city,West Valley City,addr
+2055570332,country,US,addr
+2055570332,full,3180 S 5600 W,addr
+2055570332,housename,Walmart,addr
+2055570332,postcode,84120,addr
+2055570332,state,UT,addr
+2055570332,name,Walmart Supercenter,regular
+2055570332,opening_hours,Mo-Su 06:00-24:00,regular
+2055570332,operator,Walmart,regular
+2055570332,phone,+1-801-966-2986,regular
+2055570332,walmart,3568,ref
+2055570332,shop,supermarket,regular
+2055570332,website,https://www.walmart.com/store/3568/west-valley%20city-ut/whats-new,regular
+2055650481,name,Chicken Express,regular
+2055650481,amenity,fast_food,regular
+2094032863,barrier,gate,regular
+2130193670,amenity,bench,regular
+2130193817,noexit,yes,regular
+2135194860,highway,turning_circle,regular
+2135342450,name,Sports Mall,regular
+2135342450,leisure,sports_centre,regular
+2135342450,building,yes,regular
+2138457784,entrance,yes,regular
+2140780680,amenity,parking,regular
+2140780680,parking,surface,regular
+2151005489,railway,level_crossing,regular
+2151202553,railway,level_crossing,regular
+2155586670,highway,crossing,regular
+2162044328,aerialway,pylon,regular
+2162044687,aerialway,pylon,regular
+2162045743,aerialway,pylon,regular
+2162054356,aerialway,pylon,regular
+2162055880,aerialway,pylon,regular
+2162408730,source,Bing,regular
+2162408730,highway,turning_circle,regular
+2177314246,name,Cameo College of Essential Beauty,regular
+2177314246,amenity,college,regular
+2177314246,college,beauty,regular
+2177314246,website,http://cameocollege.com,regular
+2177314246,building,yes,regular
+2177314246,street,East 5770 South,addr
+2177314246,postcode,84107,addr
+2177314246,housenumber,124,addr
+2187262038,highway,turning_circle,regular
+2187412348,highway,turning_circle,regular
+2187497004,highway,turning_circle,regular
+2187497081,highway,turning_circle,regular
+2187676699,highway,turning_circle,regular
+2187731196,highway,turning_circle,regular
+2187917068,natural,tree,regular
+2187917093,natural,tree,regular
+2187917118,natural,tree,regular
+2187917154,natural,tree,regular
+2187917205,natural,tree,regular
+2188165140,highway,turning_circle,regular
+2225956095,amenity,parking,regular
+2269691069,natural,tree,regular
+2269691135,natural,tree,regular
+2269691162,natural,tree,regular
+2271789193,highway,bus_stop,regular
+2274089418,highway,crossing,regular
+2274089418,crossing,unmarked,regular
+2281645720,shop,vacant,regular
+2283670648,tourism,picnic_site,regular
+2298477162,highway,turning_circle,regular
+2319674938,highway,turning_circle,regular
+2326325776,name,Weinerschnitzl,regular
+2326325776,amenity,restaurant,regular
+2326325776,cuisine,american,regular
+2327662157,name,Happy Sumo Sushi,regular
+2327662157,amenity,restaurant,regular
+2327662157,cuisine,sushi,regular
+2328214493,name,Silver Lake Picnic Area,regular
+2328214493,tourism,picnic_site,regular
+2328268831,name,Century 16 Union Heights,regular
+2328268831,amenity,cinema,regular
+2328395993,name,Red Robin,regular
+2328395993,source,MapQuest Open Aerial,regular
+2328395993,amenity,restaurant,regular
+2328395993,cuisine,burger,regular
+2330720200,name,Arby's,regular
+2330720200,amenity,fast_food,regular
+2330720200,cuisine,american,regular
+2330803765,name,Salt City Burger,regular
+2330803765,source,Bing,regular
+2330803765,amenity,restaurant,regular
+2330803765,cuisine,burger,regular
+2330811967,name,7-Eleven,regular
+2330811967,shop,convenience,regular
+2330937733,name,Chili's,regular
+2330937733,amenity,restaurant,regular
+2330937733,cuisine,american,regular
+2330937779,atm,yes,regular
+2330937779,name,Chase,regular
+2330937779,amenity,bank,regular
+2330942492,name,DownEast,regular
+2330942492,shop,department_store,regular
+2330983866,name,Kearns Recreation Center,regular
+2330983866,leisure,sports_centre,regular
+2330983866,building,yes,regular
+2331087102,name,Washington School House Hotel,regular
+2331087102,tourism,hotel,regular
+2332676889,name,Mimi's Cafe,regular
+2332676889,amenity,restaurant,regular
+2332676889,cuisine,international,regular
+2333395735,name,Disney Store,regular
+2333395735,shop,department_store,regular
+2334480058,name,7-11,regular
+2334480058,amenity,fuel,regular
+2335874836,name,Seagull Book,regular
+2335874836,shop,books,regular
+2336213586,name,Artic Circle,regular
+2336213586,source,Bing,regular
+2336213586,amenity,fast_food,regular
+2336213586,cuisine,burger,regular
+2337154752,name,Motel 6,regular
+2337154752,tourism,hotel,regular
+2337154818,name,La Quinta Inn,regular
+2337154818,tourism,hotel,regular
+2337334800,name,Burger King,regular
+2337334800,source,Bing,regular
+2337334800,amenity,fast_food,regular
+2337334800,cuisine,burger,regular
+2337416622,name,Historic Fort Union,regular
+2337416622,historic,memorial,regular
+2337423536,name,7-Eleven,regular
+2337423536,amenity,fuel,regular
+2340798643,name,The Church of Jesus Christ of Latter-day Saints,regular
+2340798643,amenity,place_of_worship,regular
+2340798643,religion,christian,regular
+2340798643,denomination,mormon,regular
+2340831907,building,house,regular
+2340831907,street,1955 West,addr
+2340831907,postcode,84087,addr
+2340831907,housenumber,1829 South,addr
+2341505164,name,Hampton Inn & Suites Salt Lake City/University-Foothill Dr.,regular
+2341505164,tourism,hotel,regular
+2345153766,name,Grey Cliff Picnic Area,regular
+2345153766,tourism,picnic_site,regular
+2352934807,name,Arby's,regular
+2352934807,amenity,fast_food,regular
+2352934807,cuisine,american,regular
+2354340051,ford,yes,regular
+2356796412,name,Smiths,regular
+2356796412,shop,supermarket,regular
+2359093003,name,Gecko's Mexican Grill,regular
+2359093003,amenity,restaurant,regular
+2359093003,cuisine,mexican,regular
+2363499204,name,Lumpys Sports Bar and Grill,regular
+2363499204,amenity,bar,regular
+2363889490,natural,tree,regular
+2364896260,name,Jackalope Lounge,regular
+2364896260,amenity,bar,regular
+2365232144,name,Baja Cantina,regular
+2365232144,amenity,restaurant,regular
+2365232144,cuisine,mexican,regular
+2365232144,city,Park City,addr
+2365232144,street,Lowell Avenue,addr
+2365232144,postcode,84060,addr
+2365232144,website,http://www.bajaparkcity.com/,contact
+2365232144,housenumber,1355,addr
+2366146747,name,Old Towne Gallery,regular
+2366146747,tourism,gallery,regular
+2366146747,city,Park City,addr
+2366146747,street,Main Street,addr
+2366146747,postcode,84060,addr
+2366146747,website,http://oldtownegallery.com/,contact
+2366146747,housenumber,580,addr
+2372773475,highway,turning_circle,regular
+2376659795,highway,crossing,regular
+2378403419,highway,crossing,regular
+2379298547,leisure,playground,regular
+2385560055,name,Dairy Queen,regular
+2385560055,amenity,fast_food,regular
+2385560055,cuisine,american,regular
+2387707008,name,s,regular
+2387707008,amenity,parking,regular
+2387957888,name,Swiss Alps Inn,regular
+2387957888,tourism,hotel,regular
+2388660501,highway,crossing,regular
+2390897899,natural,tree,regular
+2392927219,highway,turning_circle,regular
+2396591739,railway,level_crossing,regular
+2399786887,name,Joann Fabrics,regular
+2399786887,shop,doityourself,regular
+2400947976,highway,bus_stop,regular
+2400983270,entrance,yes,regular
+2401857360,name,160 East 300 South,regular
+2401857360,amenity,bicycle_rental,regular
+2401857360,network,Greenbike SLC BikeShare,regular
+2404304818,name,Pizza Pie Cafe,regular
+2404304818,amenity,restaurant,regular
+2404304818,cuisine,pizza,regular
+2408321582,name,Grappa Italian Cafe,regular
+2408321582,amenity,restaurant,regular
+2408321582,cuisine,italian,regular
+2409995679,amenity,restaurant,regular
+2409995679,cuisine,sushi,regular
+2417990135,name,Wasatch Bagel,regular
+2417990135,amenity,cafe,regular
+2417990135,cuisine,coffee_shop,regular
+2418436538,highway,turning_circle,regular
+2424177743,source,Bing,regular
+2424177743,man_made,tower,regular
+2424177743,type,communication,tower
+2424306687,name,Crescent View,regular
+2424306687,network,TRAX,regular
+2424306687,operator,UTA,regular
+2424306687,railway,tram_stop,regular
+2424306687,wikidata,Q15211984,regular
+2433257362,name,Sushi Monster,regular
+2433257362,amenity,restaurant,regular
+2469692779,name,Highland Dr / 5451 S,regular
+2469692779,highway,bus_stop,regular
+2469692779,operator,UTA,regular
+2469692779,route_ref,220,regular
+2469692809,name,1300 E / 1505 S,regular
+2469692809,highway,bus_stop,regular
+2469692809,operator,UTA,regular
+2469692809,route_ref,220,regular
+2469692840,name,200 S / 460 W,regular
+2469692840,highway,bus_stop,regular
+2469692840,operator,UTA,regular
+2469692840,route_ref,220,regular
+2470257577,highway,crossing,regular
+2470305224,ref,C6,regular
+2470305224,aeroway,gate,regular
+2472286100,city,Orem,addr
+2472286100,state,UT,addr
+2472286100,street,North 1030 West,addr
+2472286100,date,2013-09-26,survey
+2472286100,country,US,addr
+2472286100,housenumber,1690,addr
+2472286125,city,Lindon,addr
+2472286125,state,UT,addr
+2472286125,street,South 400 West,addr
+2472286125,date,2013-09-26,survey
+2472286125,country,US,addr
+2472286125,housenumber,391,addr
+2477009258,highway,crossing,regular
+2477009258,crossing,uncontrolled,regular
+2477115894,name,7 Eleven,regular
+2477115894,amenity,fuel,regular
+2484542486,name,The Church of Jesus Christ of Latter-day Saints,regular
+2484542486,amenity,place_of_worship,regular
+2484542486,religion,christian,regular
+2484542486,denomination,mormon,regular
+2488548302,name,Provo ATA Martial Arts Club,regular
+2488548302,phone,(801) 361-2562,regular
+2488548302,source,provoata.com,regular
+2488548302,amenity,school,regular
+2488548302,website,provoata.com,regular
+2488548302,operator,Provo ATA Martial Arts Club,regular
+2488548302,city,Provo,addr
+2488548302,wheelchair,yes,regular
+2488548302,street,North University Parkway,addr
+2488548302,postcode,84604,addr
+2488548302,housenumber,2255,addr
+2501235635,highway,turning_circle,regular
+2503517865,highway,traffic_signals,regular
+2512403002,name,Smokin' Eddie's Grill,regular
+2512403002,amenity,fast_food,regular
+2529759107,power,pole,regular
+2529759107,source,Bing,regular
+2542445227,highway,traffic_signals,regular
+2555043102,name,City of Farmington Public Works,regular
+2555043102,office,government,regular
+2591296973,power,pole,regular
+2591296973,source,bing,regular
+2594709594,source,bing,regular
+2594709594,highway,stop,regular
+2596454524,source,bing,regular
+2596454524,railway,level_crossing,regular
+2599091654,ref,B22,regular
+2599091654,aeroway,gate,regular
+2599105357,source,bing,regular
+2599105357,railway,level_crossing,regular
+2599105482,power,pole,regular
+2599105482,source,bing,regular
+2599105707,power,pole,regular
+2599105707,source,bing,regular
+2599623372,source,bing,regular
+2599623372,barrier,gate,regular
+2600788436,power,pole,regular
+2600788436,source,bing,regular
+2600788486,power,pole,regular
+2600788486,source,bing,regular
+2600788511,power,pole,regular
+2600788511,source,bing,regular
+2600788611,power,pole,regular
+2600788611,source,bing,regular
+2600788736,railway,level_crossing,regular
+2600788761,source,bing,regular
+2600788761,highway,stop,regular
+2600788811,source,bing,regular
+2600788811,highway,stop,regular
+2600874208,power,pole,regular
+2600874208,source,bing,regular
+2602420936,source,bing,regular
+2602420936,railway,level_crossing,regular
+2604087639,railway,crossing,regular
+2604108094,railway,level_crossing,regular
+2604113433,railway,level_crossing,regular
+2604123094,railway,crossing,regular
+2605465662,railway,level_crossing,regular
+2605465736,railway,level_crossing,regular
+2605465769,railway,level_crossing,regular
+2605465804,railway,level_crossing,regular
+2605662823,railway,crossing,regular
+2605667552,railway,level_crossing,regular
+2606012388,source,bing,regular
+2606012388,barrier,gate,regular
+2617408640,aerialway,pylon,regular
+2617894886,aerialway,pylon,regular
+2617894911,aerialway,pylon,regular
+2617898359,aerialway,pylon,regular
+2617905323,aerialway,pylon,regular
+2617905413,aerialway,pylon,regular
+2621950812,railway,switch,regular
+2623074631,amenity,bench,regular
+2623074631,backrest,no,regular
+2624210634,name,Sculpture Garden,regular
+2624210634,tourism,artwork,regular
+2624210634,artwork_type,sculpture,regular
+2632777263,leisure,sports_centre,regular
+2632777263,name,Canyons Village,regular
+2632840999,type,downhill,piste
+2634310459,railway,crossing,regular
+2634310542,railway,derail,regular
+2634310606,railway,switch,regular
+2634310793,railway,level_crossing,regular
+2638909218,railway,level_crossing,regular
+2641208258,natural,tree,regular
+2641208303,natural,tree,regular
+2641208406,natural,tree,regular
+2641208498,natural,tree,regular
+2657842202,highway,crossing,regular
+2657842202,crossing,zebra,regular
+2670587186,name,Two Creek Coffee House,regular
+2670587186,amenity,cafe,regular
+2670587186,cuisine,coffee_shop,regular
+2670587186,opening_hours,Mo-Fr 08:00-15:30,regular
+2749861136,name,Daybreak Planning Office,regular
+2749861136,office,Community_,regular
+2778549755,highway,traffic_signals,regular
+2780583967,highway,turning_circle,regular
+2816795105,highway,stop,regular
+2819429026,highway,turning_circle,regular
+2875590362,highway,turning_circle,regular
+2892639088,source,Bing,regular
+2892639088,highway,turning_circle,regular
+2905776575,name,Provo Bicycle Collective,regular
+2905776575,shop,bicycle,regular
+2905776575,bicycle:diy,yes,service
+2905776575,bicycle:pump,yes,service
+2905776575,bicycle:repair,yes,service
+2905776575,bicycle:second_hand,yes,service
+2933036230,highway,crossing,regular
+2953661517,highway,crossing,regular
+2953661517,crossing,unmarked,regular
+2953686705,highway,crossing,regular
+2953686705,crossing,traffic_signals,regular
+2974554810,name,50 W 300 South,regular
+2974554810,amenity,bicycle_rental,regular
+2974554810,network,Greenbike SLC BikeShare,regular
+2978262351,highway,turning_circle,regular
+2992796191,power,tower,regular
+2992796191,source,bing,regular
+2992796216,power,tower,regular
+2992796216,source,bing,regular
+2992823948,power,tower,regular
+2992823948,source,bing,regular
+2992823973,power,tower,regular
+2992823973,source,bing,regular
+2992823998,power,tower,regular
+2992823998,source,bing,regular
+3003537974,city,Orem,addr
+3003537974,street,North 200 West,addr
+3003537974,postcode,84057,addr
+3003537974,housenumber,1367,addr
+3011408826,name,Wendy's,regular
+3011408826,amenity,fast_food,regular
+3011408826,cuisine,burger,regular
+3013365885,name,3rd Avenue & N St,regular
+3013365885,highway,bus_stop,regular
+3013365885,tactile_paving,no,regular
+3018002353,power,pole,regular
+3018002353,source,bing,regular
+3018002428,power,pole,regular
+3018002428,source,bing,regular
+3020209482,source,bing,regular
+3020209482,barrier,gate,regular
+3022756533,name,Eagle Monument,regular
+3022756533,historic,monument,regular
+3033868140,name,Lululemon,regular
+3033868140,shop,clothes,regular
+3046648110,railway,crossing,regular
+3060301033,amenity,toilets,regular
+3063934886,amenity,parking,regular
+3077866140,name,Parking for Castle Amphitheatre,regular
+3077866140,amenity,parking,regular
+3077866140,parking,surface,regular
+3101308905,name,LA Smoke Shop,regular
+3101308905,shop,cigarette,regular
+3103254941,name,Carl's Jr.,regular
+3103254941,amenity,fast_food,regular
+3106306494,barrier,gate,regular
+3117889030,name,Barbacoa,regular
+3117889030,amenity,fast_food,regular
+3117889030,cuisine,mexican,regular
+3140432385,amenity,dentist,regular
+3175322677,power,pole,regular
+3175322677,source,bing,regular
+3175322702,power,pole,regular
+3175322702,source,bing,regular
+3185962676,entrance,yes,regular
+3200390452,amenity,place_of_worship,regular
+3200390452,religion,christian,regular
+3200390452,denomination,mormon,regular
+3213224063,landuse,retail,regular
+3225956749,railway,crossing,regular
+3225957213,highway,crossing,regular
+3225957213,crossing,zebra,regular
+3225977333,highway,crossing,regular
+3225977333,crossing,zebra,regular
+3225978950,highway,crossing,regular
+3225978950,crossing,zebra,regular
+3225986786,railway,level_crossing,regular
+3229443664,highway,turning_circle,regular
+3229467371,highway,turning_circle,regular
+3255578831,highway,turning_circle,regular
+3281513779,name,US Bank,regular
+3281513779,amenity,bank,regular
+3312567794,highway,turning_circle,regular
+3312568823,highway,turning_circle,regular
+3354743706,power,tower,regular
+3358045183,name,Blue Bay,regular
+3358045183,amenity,restaurant,regular
+3358045183,cuisine,chinese,regular
+3371306264,note,Donner Trail Park,regular
+3371306264,brand,Dero,regular
+3371306264,source,osmsync:dero,regular
+3371306264,amenity,bicycle_repair_station,regular
+3371306264,opening_hours,24/7,regular
+3371306264,bicycle:chain_tool,no,service
+3372758971,source,Mapbox,regular
+3372758971,highway,turning_circle,regular
+3376734738,source,USGS Topographic Maps,regular
+3376734738,natural,spring,regular
+3376950295,railway,level_crossing,regular
+3391230997,highway,turning_circle,regular
+3408227781,highway,crossing,regular
+3408227781,crossing,zebra,regular
+3408291971,highway,turning_circle,regular
+3419044744,source,Bing,regular
+3419045594,source,Bing,regular
+3419045619,source,Bing,regular
+3450869093,tourism,picnic_site,regular
+3456927420,noexit,yes,regular
+3466803870,highway,crossing,regular
+3466803870,crossing,unmarked,regular
+3473731337,natural,tree,regular
+3473803825,natural,tree,regular
+3475948688,natural,tree,regular
+3475956513,natural,tree,regular
+3475956563,natural,tree,regular
+3486943525,highway,crossing,regular
+3487414003,natural,tree,regular
+3496241410,highway,crossing,regular
+3496241410,crossing,traffic_signals,regular
+3498983101,entrance,main,regular
+3510260451,highway,crossing,regular
+3530374097,name,Chubby's Cafe,regular
+3530374097,amenity,restaurant,regular
+3530374097,cuisine,burger,regular
+3531949762,railway,level_crossing,regular
+3534208062,highway,turning_circle,regular
+3567226883,highway,turning_circle,regular
+3584049838,name,7-Eleven,regular
+3584049838,amenity,fuel,regular
+3609634195,amenity,toilets,regular
+3611849953,name,Home,regular
+3611849953,building,house,regular
+3611849953,city,Pleasant Grove,addr
+3611849953,state,Utah,addr
+3611849953,street,South 1250 East,addr
+3611849953,postcode,84062,addr
+3611849953,housenumber,657,addr
+3629687148,natural,tree,regular
+3629687173,natural,tree,regular
+3629688098,natural,tree,regular
+3629688123,natural,tree,regular
+3629688148,natural,tree,regular
+3629874380,natural,tree,regular
+3629875305,natural,tree,regular
+3630022329,natural,tree,regular
+3635526603,natural,tree,regular
+3641290503,emergency,fire_hydrant,regular
+3641290540,emergency,fire_hydrant,regular
+3641290589,emergency,fire_hydrant,regular
+3641291248,emergency,fire_hydrant,regular
+3641291287,emergency,fire_hydrant,regular
+3641291317,emergency,fire_hydrant,regular
+3641291343,emergency,fire_hydrant,regular
+3641291370,emergency,fire_hydrant,regular
+3641291395,emergency,fire_hydrant,regular
+3641291420,emergency,fire_hydrant,regular
+3641291445,emergency,fire_hydrant,regular
+3641291470,emergency,fire_hydrant,regular
+3641291595,emergency,fire_hydrant,regular
+3641291620,emergency,fire_hydrant,regular
+3641291645,emergency,fire_hydrant,regular
+3641291670,emergency,fire_hydrant,regular
+3641291695,emergency,fire_hydrant,regular
+3641291720,emergency,fire_hydrant,regular
+3641291745,emergency,fire_hydrant,regular
+3641291770,emergency,fire_hydrant,regular
+3641291895,emergency,fire_hydrant,regular
+3641291920,emergency,fire_hydrant,regular
+3641291945,emergency,fire_hydrant,regular
+3641291970,emergency,fire_hydrant,regular
+3641292095,emergency,fire_hydrant,regular
+3641292120,emergency,fire_hydrant,regular
+3641292145,emergency,fire_hydrant,regular
+3641292170,emergency,fire_hydrant,regular
+3641292195,emergency,fire_hydrant,regular
+3641292220,emergency,fire_hydrant,regular
+3641292245,emergency,fire_hydrant,regular
+3641292270,emergency,fire_hydrant,regular
+3641292395,emergency,fire_hydrant,regular
+3641292420,emergency,fire_hydrant,regular
+3641292445,emergency,fire_hydrant,regular
+3641292470,emergency,fire_hydrant,regular
+3641292495,emergency,fire_hydrant,regular
+3641292520,emergency,fire_hydrant,regular
+3641292545,emergency,fire_hydrant,regular
+3641292570,emergency,fire_hydrant,regular
+3641292595,emergency,fire_hydrant,regular
+3641292620,emergency,fire_hydrant,regular
+3641292645,emergency,fire_hydrant,regular
+3641292670,emergency,fire_hydrant,regular
+3641292695,emergency,fire_hydrant,regular
+3641292720,emergency,fire_hydrant,regular
+3641292745,emergency,fire_hydrant,regular
+3641292770,emergency,fire_hydrant,regular
+3641292895,emergency,fire_hydrant,regular
+3641292920,emergency,fire_hydrant,regular
+3641292945,emergency,fire_hydrant,regular
+3641292970,emergency,fire_hydrant,regular
+3641293295,emergency,fire_hydrant,regular
+3641293320,emergency,fire_hydrant,regular
+3641293345,emergency,fire_hydrant,regular
+3641293370,emergency,fire_hydrant,regular
+3641293395,emergency,fire_hydrant,regular
+3641293420,emergency,fire_hydrant,regular
+3641293445,emergency,fire_hydrant,regular
+3641293470,emergency,fire_hydrant,regular
+3641293495,emergency,fire_hydrant,regular
+3641293520,emergency,fire_hydrant,regular
+3641293545,emergency,fire_hydrant,regular
+3641293570,emergency,fire_hydrant,regular
+3641293595,emergency,fire_hydrant,regular
+3641293620,emergency,fire_hydrant,regular
+3641293645,emergency,fire_hydrant,regular
+3641293670,emergency,fire_hydrant,regular
+3641293795,emergency,fire_hydrant,regular
+3641293820,emergency,fire_hydrant,regular
+3641293845,emergency,fire_hydrant,regular
+3641293870,emergency,fire_hydrant,regular
+3641293895,emergency,fire_hydrant,regular
+3641293920,emergency,fire_hydrant,regular
+3641293945,emergency,fire_hydrant,regular
+3641293970,emergency,fire_hydrant,regular
+3641294095,emergency,fire_hydrant,regular
+3641294120,emergency,fire_hydrant,regular
+3641294145,emergency,fire_hydrant,regular
+3641294170,emergency,fire_hydrant,regular
+3641294295,emergency,fire_hydrant,regular
+3641294320,emergency,fire_hydrant,regular
+3641294345,emergency,fire_hydrant,regular
+3641294370,emergency,fire_hydrant,regular
+3641294695,emergency,fire_hydrant,regular
+3641294720,emergency,fire_hydrant,regular
+3641294745,emergency,fire_hydrant,regular
+3641294770,emergency,fire_hydrant,regular
+3641294895,emergency,fire_hydrant,regular
+3641294920,emergency,fire_hydrant,regular
+3641294945,emergency,fire_hydrant,regular
+3641294970,emergency,fire_hydrant,regular
+3641294995,emergency,fire_hydrant,regular
+3641295020,emergency,fire_hydrant,regular
+3641295045,emergency,fire_hydrant,regular
+3641295070,emergency,fire_hydrant,regular
+3641295095,emergency,fire_hydrant,regular
+3641295120,emergency,fire_hydrant,regular
+3641295145,emergency,fire_hydrant,regular
+3641295170,emergency,fire_hydrant,regular
+3641295195,emergency,fire_hydrant,regular
+3641295220,emergency,fire_hydrant,regular
+3641295245,emergency,fire_hydrant,regular
+3641295270,emergency,fire_hydrant,regular
+3641295295,emergency,fire_hydrant,regular
+3641295320,emergency,fire_hydrant,regular
+3641295345,emergency,fire_hydrant,regular
+3641295370,emergency,fire_hydrant,regular
+3641295395,emergency,fire_hydrant,regular
+3641295420,emergency,fire_hydrant,regular
+3641295445,emergency,fire_hydrant,regular
+3641295470,emergency,fire_hydrant,regular
+3641295595,emergency,fire_hydrant,regular
+3641295620,emergency,fire_hydrant,regular
+3641295645,emergency,fire_hydrant,regular
+3641295670,emergency,fire_hydrant,regular
+3641295695,emergency,fire_hydrant,regular
+3641295720,emergency,fire_hydrant,regular
+3641295745,emergency,fire_hydrant,regular
+3641295770,emergency,fire_hydrant,regular
+3641295795,emergency,fire_hydrant,regular
+3641295820,emergency,fire_hydrant,regular
+3641295845,emergency,fire_hydrant,regular
+3641295870,emergency,fire_hydrant,regular
+3641295895,emergency,fire_hydrant,regular
+3641295920,emergency,fire_hydrant,regular
+3641295945,emergency,fire_hydrant,regular
+3641295970,emergency,fire_hydrant,regular
+3641296095,emergency,fire_hydrant,regular
+3641296120,emergency,fire_hydrant,regular
+3641296145,emergency,fire_hydrant,regular
+3641296171,emergency,fire_hydrant,regular
+3641296296,emergency,fire_hydrant,regular
+3641296321,emergency,fire_hydrant,regular
+3641296346,emergency,fire_hydrant,regular
+3641296371,emergency,fire_hydrant,regular
+3641296396,emergency,fire_hydrant,regular
+3641296421,emergency,fire_hydrant,regular
+3641296446,emergency,fire_hydrant,regular
+3641296471,emergency,fire_hydrant,regular
+3641296596,emergency,fire_hydrant,regular
+3641296621,emergency,fire_hydrant,regular
+3641296646,emergency,fire_hydrant,regular
+3641296671,emergency,fire_hydrant,regular
+3641296896,emergency,fire_hydrant,regular
+3641296921,emergency,fire_hydrant,regular
+3641296946,emergency,fire_hydrant,regular
+3641296971,emergency,fire_hydrant,regular
+3641297096,emergency,fire_hydrant,regular
+3649141887,name,Supercuts,regular
+3649141887,shop,hairdresser,regular
+3649181477,name,Noodles and Co,regular
+3649181477,amenity,restaurant,regular
+3649199755,name,The Habit Burger Grill,regular
+3649199755,amenity,restaurant,regular
+3649199755,cuisine,burger,regular
+3650867025,leisure,playground,regular
+3650939683,natural,tree,regular
+3650939708,amenity,bench,regular
+3650939886,natural,tree,regular
+3650939911,natural,tree,regular
+3657848434,amenity,parking,regular
+3657848434,capacity,20,regular
+3657848459,amenity,parking,regular
+3657848459,capacity,10,regular
+3658042945,highway,stop,regular
+3659636652,name,Wicked,regular
+3659636652,tourism,attraction,regular
+3661865554,natural,tree,regular
+3662230438,natural,tree,regular
+3662230463,natural,tree,regular
+3662230488,natural,tree,regular
+3662285761,natural,tree,regular
+3662316586,natural,tree,regular
+3663747140,natural,tree,regular
+3663747340,natural,tree,regular
+3672191165,natural,tree,regular
+3672208788,natural,tree,regular
+3672208813,natural,tree,regular
+3672221438,natural,tree,regular
+3672221463,natural,tree,regular
+3672221488,natural,tree,regular
+3672221513,natural,tree,regular
+3672221638,natural,tree,regular
+3672221663,natural,tree,regular
+3672221688,natural,tree,regular
+3672221713,natural,tree,regular
+3672221738,natural,tree,regular
+3672221763,natural,tree,regular
+3672221788,natural,tree,regular
+3672221813,natural,tree,regular
+3672221838,natural,tree,regular
+3672221863,natural,tree,regular
+3672221888,natural,tree,regular
+3672221913,natural,tree,regular
+3672221938,natural,tree,regular
+3672221963,natural,tree,regular
+3672221988,natural,tree,regular
+3672222013,natural,tree,regular
+3672222038,natural,tree,regular
+3672222063,natural,tree,regular
+3672222088,natural,tree,regular
+3672222113,natural,tree,regular
+3672222138,natural,tree,regular
+3672222163,natural,tree,regular
+3672222188,natural,tree,regular
+3672222213,natural,tree,regular
+3672222238,natural,tree,regular
+3672222263,natural,tree,regular
+3672222288,natural,tree,regular
+3672222313,natural,tree,regular
+3672222338,natural,tree,regular
+3672222363,natural,tree,regular
+3672222388,natural,tree,regular
+3672222413,natural,tree,regular
+3672222538,natural,tree,regular
+3672222563,natural,tree,regular
+3672222588,natural,tree,regular
+3672222613,natural,tree,regular
+3672222638,natural,tree,regular
+3672222663,natural,tree,regular
+3672222688,natural,tree,regular
+3672222713,natural,tree,regular
+3672222938,natural,tree,regular
+3672222963,natural,tree,regular
+3672222988,natural,tree,regular
+3672223013,natural,tree,regular
+3672223138,natural,tree,regular
+3680716856,highway,crossing,regular
+3680716856,crossing,traffic_signals,regular
+3683014817,traffic_calming,hump,regular
+3689842581,highway,turning_circle,regular
+3710874037,fee,no,regular
+3710874037,amenity,charging_station,regular
+3710874037,capacity,3,regular
+3710874037,description,free for public use,regular
+3710874037,type1,3,socket
+3713816523,name,Copper Kitchen,regular
+3713816523,phone,385-237-3159,regular
+3713816523,source,http://copperkitchenslc.com,regular
+3713816523,amenity,restaurant,regular
+3713816523,cuisine,american,regular
+3713816523,website,http://copperkitchenslc.com,regular
+3713816523,city,Holladay,addr
+3713816523,state,UT,addr
+3713816523,street,2300 East,addr
+3713816523,postcode,84117,addr
+3713816523,opening_hours,"Mo-Th 11:30-15:00, 17:00-21:00; Fr 11:30-15:00, 17:00-22:00; Sa 10:30-15:00, 17:00-22:00; Su 10:30-15:00, 17:00-21:00",regular
+3713816523,housenumber,4640 South,addr
+3720854272,entrance,main,regular
+3720854297,entrance,yes,regular
+3726956947,entrance,yes,regular
+3726956972,entrance,yes,regular
+3728522836,name,Rubio's,regular
+3728522836,amenity,restaurant,regular
+3728522836,housenumber,1160,addr
+3728754025,name,Bingham Cyclery,regular
+3728754025,shop,bicycle,regular
+3728754025,city,Salt Lake City,addr
+3728754025,street,West Broadway,addr
+3728754025,postcode,84101,addr
+3728754025,housenumber,336,addr
+3734752572,highway,stop,regular
+3737709533,access,customers,regular
+3737709533,amenity,parking,regular
+3737720364,highway,crossing,regular
+3737720364,crossing,traffic_signals,regular
+3738182435,highway,turning_circle,regular
+3738300426,name,The Store Stuff,regular
+3738300426,shop,household,regular
+3738300426,source,survey and http://www.thestorestuff.com/contact,regular
+3738300426,city,Holladay,addr
+3738300426,state,Ut,addr
+3738300426,street,Highland Drive,addr
+3738300426,postcode,84121,addr
+3738300426,opening_hours,Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su closed,regular
+3738300426,housenumber,6249 South,addr
+3763156610,highway,turning_circle,regular
+3765623768,natural,tree,regular
+3778984262,name,Day Murray Music,regular
+3778984262,shop,musical_instrument,regular
+3778993865,name,Chipotle,regular
+3778993865,amenity,restaurant,regular
+3778993865,cuisine,mexican,regular
+3778993865,smoking,no,regular
+3778993865,takeaway,yes,regular
+3778993865,outdoor_seating,yes,regular
+3788318060,name,The Power Plant,regular
+3788318060,amenity,bar,regular
+3788339063,name,The Door Church Food Pantry,regular
+3788339063,amenity,social_centre,regular
+3887171302,natural,tree,regular
+3895696131,name,Johnson Elite Orthodontics,regular
+3895696131,note,"Johnson Elite Orthodontics is not your grandpa's orthodontic practice! We provide innovative treatment solutions for children, teens and adults that yield extraordinary results!",regular
+3895696131,phone,(801) 466-0040,regular
+3895696131,amenity,dentist,regular
+3895696131,website,http://www.johnsoneliteortho.com,regular
+3895696131,city,Salt Lake City,addr
+3895696131,state,Utah,addr
+3895696131,street,3300 South,addr
+3895696131,postcode,84109,addr
+3895696131,opening_hours,8:00 -5:00 M - F,regular
+3895696131,housenumber,2505 E,addr
+3914005601,name,Roxberry,regular
+3914005601,amenity,fast_food,regular
+3914022603,name,Jump Up Gymnastics,regular
+3914022603,shop,yes,regular
+3951891017,highway,stop,regular
+3964181316,highway,bus_stop,regular
+3964181316,public_transport,platform,regular
+3996681873,name,Pelican Point,regular
+3996681873,tourism,viewpoint,regular
+3998056237,name,Wiseguys Comedy Club,regular
+3998056237,amenity,nightclub,regular
+3998234475,amenity,atm,regular
+3998285912,name,Poplar Street Pub,regular
+3998285912,amenity,pub,regular
+3998285942,atm,yes,regular
+3998285942,name,Cyprus Credit Union,regular
+3998285942,amenity,bank,regular
+3999437627,name,Fossil,regular
+3999437627,shop,yes,regular
+3999437654,name,Vans,regular
+3999437654,shop,shoes,regular
+3999490459,atm,yes,regular
+3999490459,name,Utah Community Bank,regular
+3999490459,amenity,bank,regular
+3999497840,name,Los Garcia Mexican,regular
+3999497840,amenity,restaurant,regular
+3999497840,cuisine,mexican,regular
+3999586749,name,Dairy Queen,regular
+3999586749,amenity,fast_food,regular
+3999586749,cuisine,burger,regular
+3999664292,name,Rumbi Grill,regular
+3999664292,amenity,restaurant,regular
+3999664292,cuisine,american,regular
+3999664317,name,Shoe Mania,regular
+3999664317,shop,shoes,regular
+3999722842,name,It's Tofu,regular
+3999722842,amenity,restaurant,regular
+3999811807,name,Great Clips,regular
+3999811807,shop,hairdresser,regular
+3999878492,name,Pan Wok,regular
+3999878492,amenity,restaurant,regular
+3999878492,cuisine,asian,regular
+4001162535,name,Ken Garff Saab,regular
+4001162535,shop,car,regular
+4013613433,name,Chick-fil-A,regular
+4013613433,amenity,fast_food,regular
+4013613433,cuisine,american,regular
+4013613458,name,Old Spaghetti Factory,regular
+4013613458,amenity,restaurant,regular
+4013613458,cuisine,italian,regular
+4029475754,name,Park City Film Studios,regular
+4070148349,highway,crossing,regular
+4073692190,highway,turning_circle,regular
+4085444759,highway,turning_circle,regular
+4087418995,railway,level_crossing,regular
+4087424664,railway,level_crossing,regular
+4087424689,highway,bus_stop,regular
+4087424689,street,900 East,addr
+4087432781,railway,crossing,regular
+4087437689,name,Impact Guns,regular
+4087437689,shop,gun,regular
+4087440458,amenity,toilets,regular
+4087476965,highway,traffic_signals,regular
+4087476965,crossing,traffic_signals,regular
+4100041872,name,Sleep Number,regular
+4100041872,shop,bed,regular
+4106682392,name,Now & Again,regular
+4106682392,shop,antiques,regular
+4106682392,housenumber,207,addr
+4110066678,name,Planet Fitness,regular
+4110066678,leisure,sports_centre,regular
+4124647355,name,Cornerstone Event Pavilion,regular
+4124647355,building,yes,regular
+4139572191,name,Priority Footwear,regular
+4139572191,shop,shoes,regular
+4139630389,name,Johnstown LTD,regular
+4139630389,shop,clothes,regular
+4145236910,highway,bus_stop,regular
+4166452611,name,Xcel Fitness,regular
+4166452611,leisure,sports_centre,regular
+4166452636,name,Phillips 66,regular
+4166452636,amenity,fuel,regular
+4166471357,name,The Church of Jesus Christ of Latter-day Saints,regular
+4166471357,amenity,place_of_worship,regular
+4166471357,religion,christian,regular
+4195870647,highway,bus_stop,regular
+4195870647,operator,UTA,regular
+4195870647,route_ref,72,regular
+4195870672,highway,bus_stop,regular
+4195870672,operator,UTA,regular
+4195870672,route_ref,72,regular
+4195874597,highway,bus_stop,regular
+4195874597,operator,UTA,regular
+4195874597,route_ref,72,regular
+4197809141,name,Kobe Japanese Cuisine,regular
+4197809141,amenity,restaurant,regular
+4197809141,cuisine,japanese,regular
+4207702212,name,Payless Shoe Source,regular
+4207702212,shop,shoes,regular
+4207882729,name,Holladay Healthcare Center,regular
+4207882729,phone,+1 801 277 7002,regular
+4207882729,amenity,nursing_home,regular
+4207882729,website,http://holladayhealthcare.net/,regular
+4207882729,city,Salt Lake City,addr
+4207882729,street,South Holladay Boulevard,addr
+4207882729,postcode,84117,addr
+4207882729,housenumber,4782,addr
+4245078265,name,Hertz,regular
+4245078265,amenity,car_rental,regular
+4272209822,name,Sandy City Fire Deparment,regular
+4272209822,amenity,fire_station,regular
+4277279809,leisure,picnic_table,regular
+4286292103,tourism,information,regular
+4286292131,leisure,picnic_table,regular
+4289552291,name,Yogurt land,regular
+4289552291,amenity,ice_cream,regular
+4291139966,phone,+1-801-532-9911,regular
+4291139966,amenity,telephone,regular
+4296767314,name,Best Buy,regular
+4296767314,shop,electronics,regular
+4296801711,name,Abercrombie & Fitch,regular
+4296801711,shop,clothes,regular
+4296948092,name,Cricket,regular
+4296948092,shop,mobile_phone,regular
+4296948092,postcode,84116,addr
+4297134954,name,MetroPCS,regular
+4297134954,shop,mobile_phone,regular
+4304793873,name,Cafe Zupas,regular
+4304793873,amenity,restaurant,regular
+4304793873,cuisine,sandwich,regular
+4311815199,name,Stanza Italian Bistro & Wine Bar,regular
+4311815199,amenity,restaurant,regular
+4311815199,cuisine,italian,regular
+4311840166,name,Stone Haus Pizzeria & Creamery,regular
+4311840166,amenity,restaurant,regular
+4311967099,highway,traffic_signals,regular
+4311967099,traffic_signals,signal,regular
+4325777722,highway,crossing,regular
+4325777722,crossing,uncontrolled,regular
+4346402140,tourism,information,regular
+4348907095,highway,turning_circle,regular
+4374668077,amenity,vending_machine,regular
+4374668077,vending,public_transport_tickets,regular
+4374668077,operator,UTA,regular
+4374905560,name,Q Nails,regular
+4374905560,shop,beauty,regular
+4377168994,name,"Salt Lake City C.A.P.(Community Action Center)/HEAT, ETC...",regular
+4377168994,amenity,community_centre,regular
+4377168994,en,"Salt Lake City C.A.P.(Community Action Center)/HEAT, ETC...",name
+4415976920,highway,crossing,regular
+4441611291,name,American Fork Junior High School,regular
+4441611291,amenity,school,regular
+4441611291,street,735 North 1060 East,addr
+4452358174,name,Pizza Hut,regular
+4452358174,amenity,restaurant,regular
+4452358174,cuisine,pizza,regular
+4452560060,name,Heber City Cafe,regular
+4452560060,amenity,restaurant,regular
+4458968379,fax,+1 801 4071707,regular
+4458968379,name,"Tri City Construction, Inc",regular
+4458968379,phone,+1 801 4531177,regular
+4458968379,office,company,regular
+4458968379,website,http://www.tricityconstruction.com,regular
+4458968379,city,Draper,addr
+4458968379,unit,1,addr
+4458968379,state,UT,addr
+4458968379,street,West 13775 South,addr
+4458968379,postcode,84020,addr
+4458968379,opening_hours,Mo-Fr 09:00-17:00,regular
+4458968379,housenumber,78,addr
+4465213130,name,Larry H. Miller Ford Lincoln Provo,regular
+4465213130,shop,car,regular
+4465213130,phone,801-356-4200,regular
+4465213130,website,http://www.larryhmillerfordprovo.com,regular
+4465213130,operator,Larry H. Miller Dealerships,regular
+4465213130,city,Provo,addr
+4465213130,state,UT,addr
+4465213130,street,North University Parkway,addr
+4465213130,postcode,84604,addr
+4465213130,opening_hours,"Monday - Saturday 8:30 am - 9:00 pm, Sunday Closed",regular
+4465213130,housenumber,1995,addr
+4534738943,amenity,restaurant,regular
+4534738943,cuisine,pizza,regular
+4534738943,name,1000 Degrees Neapolitan Pizza,regular
+4534772482,name,Manny's Deli,regular
+4534772482,shop,deli,regular
+4539792304,name,Starbucks,regular
+4539792304,shop,coffee,regular
+4539792304,phone,801-581-6326,regular
+4539792304,opening_hours,Mo-Fr 07:30-18:00,regular
+4543882656,name,Asian Gift,regular
+4543882656,shop,gift,regular
+4545652704,highway,crossing,regular
+4545652704,crossing,uncontrolled,regular
+4554158715,name,Carl's Cafe,regular
+4554158715,amenity,restaurant,regular
+4574423156,name,FastBucks,regular
+4574423156,phone,801-288-2274,regular
+4574423156,website,http://fastbucks.com,regular
+4574423156,city,Salt Lake City,addr
+4574423156,state,UT,addr
+4574423156,street,S State St #,addr
+4574423156,postcode,84107,addr
+4574423156,housenumber,4367,addr
+4576255781,leisure,picnic_table,regular
+4577960611,name,Menchie's,regular
+4577960611,amenity,ice_cream,regular
+4583331387,amenity,drinking_water,regular
+4583331419,amenity,drinking_water,regular
+4584488377,name,White Elegance,regular
+4584488377,shop,clothes,regular
+4596540988,railway,crossing,regular
+4599924089,highway,turning_circle,regular
+4599938635,tourism,picnic_site,regular
+4600410457,name,AT&T,regular
+4600410457,shop,mobile_phone,regular
+4600410457,description,Inside store ,regular
+4600573992,name,CosmoProf,regular
+4600573992,shop,beauty,regular
+4600632343,name,Aquarium Fin/Wave,regular
+4600632343,tourism,attraction,regular
+4622635685,man_made,flagpole,regular
+4626726984,highway,turning_circle,regular
+4632323194,traffic_calming,dip,regular
+4633464658,highway,turning_circle,regular
+4638595380,amenity,toilets,regular
+4638750258,leisure,playground,regular
+4653448578,amenity,restaurant,regular
+4653448578,name,Tosh's Ramen,regular
+4660983102,power,tower,regular
+4660983152,power,tower,regular
+4673165501,name,Carlton,regular
+4673165501,tourism,hotel,regular
+4679234388,natural,tree,regular
+4679235538,natural,tree,regular
+4683906963,atm,yes,regular
+4683906963,name,Granite Credit Union,regular
+4683906963,amenity,bank,regular
+4687254574,highway,crossing,regular
+4687254574,crossing,uncontrolled,regular
+4687829569,source,bing,regular
+4689060115,crossing,traffic_signals,regular
+4689060115,highway,crossing,regular
+4703632967,man_made,flagpole,regular
+4704170244,railway,level_crossing,regular
+4704170519,railway,level_crossing,regular
+4704170544,railway,level_crossing,regular
+4707569484,highway,bus_stop,regular
+4709410565,name,Mimi's Miracle Minerals,regular
+4709410565,phone,888-665-7769,regular
+4709410565,source,http://www.facebook.com/Mimis-Miracle-Minerals-387236574957499/,regular
+4709410565,website,https://mimismiracleminerals.com/,regular
+4709410565,city,Orem,addr
+4709410565,state,UT,addr
+4709410565,street,S Sleepy Ridge Drive Suite ,addr
+4709410565,description,"Mimi’s Miracle Minerals fulvic and humic acid complex works to revitalize and clean out your cells, having an alkalizing effect on your body and providing the powerful benefits of antioxidants.
+",regular
+4709410565,postcode,84058,addr
+4709410565,housenumber,730,addr
+4710810066,atm,yes,regular
+4710810066,name,Mountain America Credit Union,regular
+4710810066,amenity,bank,regular
+4715794093,railway,level_crossing,regular
+4715794093,barrier,no,crossing
+4722867000,natural,tree,regular
+4729364363,building,entrance,regular
+4738711947,city,Salt Lake City,addr
+4738711947,housenumber,208,addr
+4738711947,postcode,84115,addr
+4738711947,state,Utah,addr
+4738711947,street,Paramount Avenue,addr
+4738711947,name,Tip Top Transmissions,regular
+4738711947,opening_hours,M-F 8AM-5PM,regular
+4738711947,phone,(801) 484-1688,regular
+4738711947,shop,car_repair,regular
+4738711947,website,http://www.tiptoptransmissions.com,regular
+4750011511,highway,crossing,regular
+4750041498,highway,crossing,regular
+4750041498,crossing,zebra,regular
+4762375885,amenity,parking_entrance,regular
+4786858478,natural,tree,regular
+4791695426,name,600 N / 1313 W,regular
+4791695426,highway,bus_stop,regular
+4791695426,network,UTA,regular
+4791695426,operator,Utah Transit Authority,regular
+4791695426,city,Salt Lake City,addr
+4791695426,state,UT,addr
+4791695426,street,600 North,addr
+4791695426,postcode,84116,addr
+4791695426,housenumber,1313 W,addr
+4796508009,amenity,vending_machine,regular
+4796508009,vending,drinks,regular
+4802570581,highway,crossing,regular
+4807516646,name,1200 W / 950 N,regular
+4807516646,highway,bus_stop,regular
+4807516646,network,UTA,regular
+4807516646,operator,Utah Transit Authority,regular
+4807980941,name,Costa Vida,regular
+4807980941,amenity,restaurant,regular
+4807980941,cuisine,mexican,regular
+4813894243,crossing,traffic_signals,regular
+4813894243,highway,crossing,regular
+4813894243,kerb,flush,regular
+4816048774,natural,tree,regular
+4816048799,natural,tree,regular
+4816048924,natural,tree,regular
+4816048949,natural,tree,regular
+4816138696,amenity,bench,regular
+4831511332,highway,turning_circle,regular
+4839188989,name,Carl's Jr.,regular
+4839188989,amenity,fast_food,regular
+4839208888,name,Downunder Club,regular
+4839208888,amenity,nightclub,regular
+4844146234,name,Riverhorse Provisions,regular
+4844146234,shop,deli,regular
+4872471259,tourism,camp_site,regular
+4872471259,housenumber,12,addr
+4875075063,name,Maverik Adventure's First Stop,regular
+4875075063,shop,convenience,regular
+4931376107,highway,crossing,regular
+4939800972,name,East Valley Veterenary Clinic,regular
+4939800972,amenity,veterinary,regular
+4940349604,highway,crossing,regular
+4940349604,crossing,flag,regular
+4942390791,natural,tree,regular
+4945083098,highway,crossing,regular
+4945083098,crossing,unmarked,regular
+4946474596,crossing,no,regular
+4969416513,natural,tree,regular
+4971422965,natural,tree,regular
+4971422990,natural,tree,regular
+4973845451,highway,turning_circle,regular
+4981422524,highway,crossing,regular
+4981422524,crossing,unmarked,regular
+4985981931,natural,tree,regular
+4987407754,bin,no,regular
+4987407754,bench,no,regular
+4987407754,highway,bus_stop,regular
+4987407754,shelter,no,regular
+4991538748,crossing,uncontrolled,regular
+4991538748,highway,crossing,regular
+4996286538,power,pole,regular
+5000732410,name,Bountiful B,regular
+5002003123,highway,bus_stop,regular
+5002012621,highway,bus_stop,regular
+5002013132,highway,bus_stop,regular
+5002013158,highway,bus_stop,regular
+5015403090,highway,crossing,regular
+5023473051,access,private,regular
+5023473051,barrier,gate,regular
+5023473090,access,private,regular
+5023473090,barrier,gate,regular
+5026609322,name,Park City,regular
+5026609322,en,Park City,name
+5026609322,nl,Park City,name
+5026609322,tourism,attraction,regular
+5063422896,highway,crossing,regular
+5063422896,crossing,traffic_signals,regular
+5068110531,name,Long Life Vegi House,regular
+5068110531,amenity,restaurant,regular
+5068110531,cuisine,chinese,regular
+5068110531,smoking,no,regular
+5068110531,delivery,no,regular
+5068110531,takeaway,yes,regular
+5068110531,internet_access,no,regular
+5101912323,city,Salt Lake City,addr
+5101912323,housenumber,1155,addr
+5101912323,postcode,84106,addr
+5101912323,state,UT,addr
+5101912323,street,2100 South,addr
+5101912323,name,Irving Schoolhouse,regular
+5101912323,tourism,apartment,regular
+5102064340,amenity,parking,regular
+5104569697,highway,crossing,regular
+5108351981,city,Heber City,addr
+5108351981,housenumber,468,addr
+5108351981,postcode,84032,addr
+5108351981,state,UT,addr
+5108351981,street,North Main Street,addr
+5108351981,name,Slim & Knobbys Bike Shop,regular
+5108351981,shop,bicycle,regular
+5108385342,natural,tree,regular
+5108385367,natural,tree,regular
+5109461099,entrance,yes,regular
+5125265826,crossing,traffic_signals,regular
+5125265826,highway,crossing,regular
+5134192813,highway,crossing,regular
+5138678093,housenumber,918,addr
+5138678093,street,East Nicholls Road,addr
+5138678093,source,survey,regular
+5163332209,traffic_calming,dip,regular
+5191598098,highway,turning_circle,regular
+5197068859,name,The Dog Show,regular
+5197068859,shop,pet,regular
+5207759234,crossing,uncontrolled,regular
+5207759234,highway,crossing,regular
+5208478139,entrance,yes,regular
+5252288022,amenity,toilets,regular
+5257848695,tourism,picnic_site,regular
+5262255795,city,Salt Lake City,addr
+5262255795,housenumber,52E,addr
+5262255795,state,UT,addr
+5262255795,street,1700 South,addr
+5262255795,amenity,restaurant,regular
+5262255795,cuisine,asian,regular
+5262255795,vegan,only,diet
+5262255795,vegetarian,only,diet
+5262255795,name,Veggie House,regular
+5262255795,opening_hours,Mo-Sa 11:00 - 9:00; Su 12:00 - 7:00,regular
+5262255795,outdoor_seating,no,regular
+5262255795,smoking,no,regular
+5262255795,takeaway,yes,regular
+5271377539,barrier,gate,regular
+5271377539,foot,yes,regular
+5271377939,crossing,traffic_signals,regular
+5271377939,highway,crossing,regular
+5274051661,amenity,bench,regular
+5276096299,amenity,restaurant,regular
+5276096299,cuisine,afghan,regular
+5276096299,vegan,yes,diet
+5276096299,name,Afghan Kitchen,regular
+5286989026,tourism,artwork,regular
+5288413561,highway,turning_circle,regular
+5293113564,natural,tree,regular
+5294209508,highway,turning_circle,regular
+5294425100,highway,turning_circle,regular
+5298334626,amenity,restaurant,regular
+5298334626,name,Mo' Bettah Steaks,regular
+5298371352,amenity,bank,regular
+5298371352,name,Mountain America Credit Union,regular
+5304260187,city,West Jordan,addr
+5304260187,housenumber,3706 W,addr
+5304260187,postcode,84088,addr
+5304260187,state,UT,addr
+5304260187,street,9000 South,addr
+5304260187,description,"Nursing home, rehab facility",regular
+5304260187,name,Copper Ridge Health Care,regular
+5322560007,amenity,vending_machine,regular
+5322560007,vending,parking_tickets,regular
+5327031959,artwork_type,aircraft,regular
+5327031959,tourism,artwork,regular
+5327877063,amenity,cafe,regular
+5327877063,delivery,no,regular
+5327877063,internet_access,wlan,regular
+5327877063,fee,no,internet_access
+5327877063,name,La Barba,regular
+5327877063,smoking,no,regular
+5327877063,takeaway,yes,regular
+5327877063,wheelchair,yes,regular
