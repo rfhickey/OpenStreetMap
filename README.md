@@ -1,4 +1,4 @@
-# OpenStreetMap
+### OpenStreetMap
 
 I analyzed data from OpenStreetMap to gain insights in the Greater Salt Lake City metropolitan area.
 
