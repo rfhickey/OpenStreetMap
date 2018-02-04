@@ -55,7 +55,7 @@ I kept the answers to these questions in mind as I performed my data auditing an
 
 ### 5.	A text file containing a list of Web sites, books, forums, blog posts, github repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
 
-         The references I used for the project are the SQL lessons in the Data Wrangling module as well as the Udacity forums and my Udacity mentor. 
+         The references I used for the project are the SQL lessons I completed in the Data Wrangling module as well as this post in the Udacity forums (https://discussions.udacity.com/t/apply-update-name-function/181952/24), this GitHub repository that Udacity provided us with (https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md), and my Udacity mentor. 
  
 
 
