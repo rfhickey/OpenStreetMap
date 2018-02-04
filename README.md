@@ -33,7 +33,7 @@ I kept the answers to these questions in mind as I performed my data auditing an
         They are. Please see the OpenStreetMap_Project IPYNB file in this repository. 
 
 #### 9.1 Are ideas for additional improvements included?
-        I suggest areas for future research in the "Conclusions" section. 
+        I suggest areas for future research in the "Conclusions" section.  
 
 #### 10.1 Are benefits and problems with additional improvements discussed?
          Yes. I discuss how making the additional analysis will require some extra computing power than I currently have. 
