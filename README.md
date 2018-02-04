@@ -47,7 +47,7 @@ I kept the answers to these questions in mind as I performed my data auditing an
 
 ### 3.	A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
 
-         I extracted my OSM file using MapZen. Unfortunately, as of February, 2018, MapZen stopped their service. The area I chose was the Greater Salt Lake City Metropolitan Area because I live there. 
+         I extracted my OSM file using MapZen. Unfortunately, as of February, 2018, MapZen stopped their service. However, you can find the raw, full dataset here: https://goo.gl/mJKpQD. The area I chose was the Greater Salt Lake City Metropolitan Area because I live there. 
 
 ### 4.	An .osm file containing a sample part of the map region you used (around 1 - 10 MB in size). See the notes below.
 
