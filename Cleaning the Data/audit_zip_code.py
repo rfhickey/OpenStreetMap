@@ -20,3 +20,8 @@ def audit1(SAMPLE_FILE):
 
 audit1(SAMPLE_FILE)
 
+# Honestly, I played around with this code for hours to try and find an efficient way to determine if there were 
+# any zip codes in the data that were not five digits. While this code does this, it does not do it efficiently. 
+# One has to change the "5" in "postal_type_re = re.compile('(?<!\d)\d{5}(?!\d)')" to different numbers for this to work. 
+# I did this with digits 1-10 and found no addreses any number of digits other than 5 in the postcode field. 
+# As a result, no additional cleaning is necessary on thses fields.
